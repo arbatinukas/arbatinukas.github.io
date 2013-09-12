@@ -17,6 +17,8 @@ footer {
 a {
     text-decoration: none;
     color: white;
+    display: inline-block;
+
   }
 nav {
     display: inline-block;
