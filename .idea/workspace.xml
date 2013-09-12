@@ -5,7 +5,7 @@
     <ignored path="arbatinukas.github.io.git.iws" />
     <ignored path=".idea/workspace.xml" />
     <file path="/Dummy.txt" changelist="81b79530-2c99-4535-8de8-d219e385cdbd" time="1378987198808" ignored="false" />
-    <file path="/index.html" changelist="81b79530-2c99-4535-8de8-d219e385cdbd" time="1378987920550" ignored="false" />
+    <file path="/index.html" changelist="81b79530-2c99-4535-8de8-d219e385cdbd" time="1378990352596" ignored="false" />
     <file path="/style.css" changelist="81b79530-2c99-4535-8de8-d219e385cdbd" time="1378990146289" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -26,19 +26,19 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="index.html" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="index.html" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="15" column="20" selection-start="408" selection-end="408" vertical-scroll-proportion="-9.807693">
+            <state line="14" column="56" selection-start="507" selection-end="507" vertical-scroll-proportion="0.2857143">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="style.css" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="style.css" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/style.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="15" column="21" selection-start="231" selection-end="231" vertical-scroll-proportion="0.29685682">
+            <state line="15" column="21" selection-start="231" selection-end="231" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -62,8 +62,8 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/style.css" />
+        <option value="$PROJECT_DIR$/index.html" />
       </list>
     </option>
   </component>
@@ -277,16 +277,16 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
+    <entry file="file://$PROJECT_DIR$/style.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="15" column="20" selection-start="408" selection-end="408" vertical-scroll-proportion="-9.807693">
+        <state line="15" column="21" selection-start="231" selection-end="231" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/style.css">
+    <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="15" column="21" selection-start="231" selection-end="231" vertical-scroll-proportion="0.29685682">
+        <state line="14" column="56" selection-start="507" selection-end="507" vertical-scroll-proportion="0.2857143">
           <folding />
         </state>
       </provider>
