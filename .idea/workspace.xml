@@ -6,7 +6,7 @@
     <ignored path=".idea/workspace.xml" />
     <file path="/Dummy.txt" changelist="81b79530-2c99-4535-8de8-d219e385cdbd" time="1378987198808" ignored="false" />
     <file path="/index.html" changelist="81b79530-2c99-4535-8de8-d219e385cdbd" time="1378991403975" ignored="false" />
-    <file path="/style.css" changelist="81b79530-2c99-4535-8de8-d219e385cdbd" time="1378991656848" ignored="false" />
+    <file path="/style.css" changelist="81b79530-2c99-4535-8de8-d219e385cdbd" time="1378991742796" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -38,7 +38,7 @@
       <file leaf-file-name="style.css" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/style.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="18" column="2" selection-start="267" selection-end="267" vertical-scroll-proportion="0.35622817">
+            <state line="24" column="30" selection-start="338" selection-end="338" vertical-scroll-proportion="0.4749709">
               <folding />
             </state>
           </provider>
@@ -286,7 +286,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/style.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="18" column="2" selection-start="267" selection-end="267" vertical-scroll-proportion="0.35622817">
+        <state line="24" column="30" selection-start="338" selection-end="338" vertical-scroll-proportion="0.4749709">
           <folding />
         </state>
       </provider>
