@@ -15,11 +15,14 @@
 
 }
 #footer {
-    width: 100%;
+    width: 60%;
     height: 50px;
     background-color: mediumpurple;
     border: 1px none;
-    ;
+    border-radius: 50px;
+
+    position; relative;
+    margin-bottom: 10px;
 }
 a {
     text-decoration: none;
@@ -34,4 +37,5 @@ a {
  p {
     text-align: center;
      color: white;
+     padding-top: 15px;
 }
