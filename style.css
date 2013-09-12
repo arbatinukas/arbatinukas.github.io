@@ -21,7 +21,7 @@ a {
     text-decoration: none;
     color: white;
     display: inline-block;
-    margin: 150px 80px 10px 100px;
+    margin: 150px 80px 0px 100px;
     border: 1px solid lightskyblue;
     padding: 10px;
     border-radius: 20px;
