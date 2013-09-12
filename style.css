@@ -6,7 +6,9 @@
        border-radius: 50px
 }
 #base {
-
+       background-color: aliceblue;
+       width: auto;
+       height: 700px;
 }
 #main {
 
