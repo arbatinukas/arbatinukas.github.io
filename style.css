@@ -19,6 +19,7 @@
     height: 50px;
     background-color: mediumpurple;
     border: 1px solid #5d4c8f;
+    float: bottom;
 }
 a {
     text-decoration: none;
