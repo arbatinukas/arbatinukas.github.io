@@ -20,9 +20,9 @@
     background-color: mediumpurple;
     border: 1px none;
     border-radius: 50px;
+    margin: auto;
+    position: relative;
 
-    position; relative;
-    margin-bottom: 10px;
 }
 a {
     text-decoration: none;
