@@ -19,4 +19,5 @@ footer {
     border; 5px solid blue;
     width: 50px;
     hight: 20px;
+    float-left: 20px;
 }
