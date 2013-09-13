@@ -5,7 +5,7 @@
     <ignored path="arbatinukas.github.io.git.iws" />
     <ignored path=".idea/workspace.xml" />
     <file path="/Dummy.txt" changelist="81b79530-2c99-4535-8de8-d219e385cdbd" time="1379060786765" ignored="false" />
-    <file path="/index.html" changelist="81b79530-2c99-4535-8de8-d219e385cdbd" time="1379064433609" ignored="false" />
+    <file path="/index.html" changelist="81b79530-2c99-4535-8de8-d219e385cdbd" time="1379064472366" ignored="false" />
     <file path="/style.css" changelist="81b79530-2c99-4535-8de8-d219e385cdbd" time="1378993972097" ignored="false" />
     <file path="/main.css" changelist="81b79530-2c99-4535-8de8-d219e385cdbd" time="1379062248897" ignored="false" />
     <file path="/productcard.html" changelist="81b79530-2c99-4535-8de8-d219e385cdbd" time="1379064234641" ignored="false" />
@@ -40,7 +40,7 @@
       <file leaf-file-name="index.html" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="32" column="69" selection-start="1461" selection-end="1461" vertical-scroll-proportion="0.597146">
+            <state line="32" column="68" selection-start="1468" selection-end="1468" vertical-scroll-proportion="0.597146">
               <folding />
             </state>
           </provider>
@@ -354,7 +354,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="32" column="69" selection-start="1461" selection-end="1461" vertical-scroll-proportion="0.597146">
+        <state line="32" column="68" selection-start="1468" selection-end="1468" vertical-scroll-proportion="0.597146">
           <folding />
         </state>
       </provider>
