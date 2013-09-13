@@ -5,7 +5,7 @@
     <ignored path="arbatinukas.github.io.git.iws" />
     <ignored path=".idea/workspace.xml" />
     <file path="/Dummy.txt" changelist="81b79530-2c99-4535-8de8-d219e385cdbd" time="1379060786765" ignored="false" />
-    <file path="/index.html" changelist="81b79530-2c99-4535-8de8-d219e385cdbd" time="1379063530706" ignored="false" />
+    <file path="/index.html" changelist="81b79530-2c99-4535-8de8-d219e385cdbd" time="1379063804126" ignored="false" />
     <file path="/style.css" changelist="81b79530-2c99-4535-8de8-d219e385cdbd" time="1378993972097" ignored="false" />
     <file path="/main.css" changelist="81b79530-2c99-4535-8de8-d219e385cdbd" time="1379062248897" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -39,7 +39,7 @@
       <file leaf-file-name="index.html" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="29" column="42" selection-start="1294" selection-end="1294" vertical-scroll-proportion="0.54116356">
+            <state line="26" column="29" selection-start="1209" selection-end="1209" vertical-scroll-proportion="0.48518112">
               <folding />
             </state>
           </provider>
@@ -336,7 +336,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="29" column="42" selection-start="1294" selection-end="1294" vertical-scroll-proportion="0.54116356">
+        <state line="26" column="29" selection-start="1209" selection-end="1209" vertical-scroll-proportion="0.48518112">
           <folding />
         </state>
       </provider>
