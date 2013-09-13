@@ -8,7 +8,7 @@
     <file path="/index.html" changelist="81b79530-2c99-4535-8de8-d219e385cdbd" time="1379064041060" ignored="false" />
     <file path="/style.css" changelist="81b79530-2c99-4535-8de8-d219e385cdbd" time="1378993972097" ignored="false" />
     <file path="/main.css" changelist="81b79530-2c99-4535-8de8-d219e385cdbd" time="1379062248897" ignored="false" />
-    <file path="/productcard.html" changelist="81b79530-2c99-4535-8de8-d219e385cdbd" time="1379064130508" ignored="false" />
+    <file path="/productcard.html" changelist="81b79530-2c99-4535-8de8-d219e385cdbd" time="1379064234641" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -49,7 +49,7 @@
       <file leaf-file-name="productcard.html" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/productcard.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="32" column="64" selection-start="1432" selection-end="1432" vertical-scroll-proportion="0.597146">
+            <state line="30" column="50" selection-start="1358" selection-end="1358" vertical-scroll-proportion="0.55982435">
               <folding />
             </state>
           </provider>
@@ -338,13 +338,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/css/main.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="191" column="49" selection-start="5295" selection-end="5295" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state line="32" column="36" selection-start="1404" selection-end="1404" vertical-scroll-proportion="-20.923077">
@@ -352,9 +345,16 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/css/main.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="191" column="49" selection-start="5295" selection-end="5295" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/productcard.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="32" column="64" selection-start="1432" selection-end="1432" vertical-scroll-proportion="0.597146">
+        <state line="30" column="50" selection-start="1358" selection-end="1358" vertical-scroll-proportion="0.55982435">
           <folding />
         </state>
       </provider>
