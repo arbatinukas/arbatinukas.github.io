@@ -168,7 +168,7 @@ header nav ul li a {
 
 }
 header nav ul li a:hover {
-    box-shadow: 0 0 0 10px rgba(195, 152, 177, 0.48);
+    box-shadow: 0 0 0 10px rgba(195, 152, 187, 0.48);
     border-radius: 10px;
 }
 header nav ul li .active {
