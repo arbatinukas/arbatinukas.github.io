@@ -31,11 +31,14 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="index.html" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="index.html" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="51" column="38" selection-start="1538" selection-end="1538" vertical-scroll-proportion="-25.5">
-              <folding />
+            <state line="51" column="4" selection-start="1528" selection-end="1528" vertical-scroll-proportion="0.7277717">
+              <folding>
+                <marker date="1379337333558" expanded="true" signature="792:945" placeholder="..." />
+                <marker date="1379337333558" expanded="true" signature="885:913" placeholder="..." />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -58,10 +61,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="main.css" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="main.css" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/css/main.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="181" column="16" selection-start="3855" selection-end="3855" vertical-scroll-proportion="0.7225187">
+            <state line="181" column="16" selection-start="3855" selection-end="3855" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -87,8 +90,8 @@
       <list>
         <option value="$PROJECT_DIR$/style.css" />
         <option value="$PROJECT_DIR$/productcard.html" />
-        <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/css/main.css" />
+        <option value="$PROJECT_DIR$/index.html" />
       </list>
     </option>
   </component>
@@ -321,7 +324,10 @@
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state line="46" column="12" selection-start="1384" selection-end="1400" vertical-scroll-proportion="0.0">
-          <folding />
+          <folding>
+            <marker date="1379337333558" expanded="true" signature="792:945" placeholder="..." />
+            <marker date="1379337333558" expanded="true" signature="885:913" placeholder="..." />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -365,17 +371,20 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
+    <entry file="file://$PROJECT_DIR$/css/main.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="51" column="38" selection-start="1538" selection-end="1538" vertical-scroll-proportion="-25.5">
+        <state line="181" column="16" selection-start="3855" selection-end="3855" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/css/main.css">
+    <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="181" column="16" selection-start="3855" selection-end="3855" vertical-scroll-proportion="0.7225187">
-          <folding />
+        <state line="51" column="4" selection-start="1528" selection-end="1528" vertical-scroll-proportion="0.7277717">
+          <folding>
+            <marker date="1379337333558" expanded="true" signature="792:945" placeholder="..." />
+            <marker date="1379337333558" expanded="true" signature="885:913" placeholder="..." />
+          </folding>
         </state>
       </provider>
     </entry>
