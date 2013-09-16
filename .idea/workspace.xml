@@ -10,7 +10,7 @@
     <file path="/Dummy.txt" changelist="81b79530-2c99-4535-8de8-d219e385cdbd" time="1379330413008" ignored="false" />
     <file path="/index.html" changelist="81b79530-2c99-4535-8de8-d219e385cdbd" time="1379065027493" ignored="false" />
     <file path="/style.css" changelist="81b79530-2c99-4535-8de8-d219e385cdbd" time="1378993972097" ignored="false" />
-    <file path="/main.css" changelist="81b79530-2c99-4535-8de8-d219e385cdbd" time="1379336912882" ignored="false" />
+    <file path="/main.css" changelist="81b79530-2c99-4535-8de8-d219e385cdbd" time="1379337404951" ignored="false" />
     <file path="/productcard.html" changelist="81b79530-2c99-4535-8de8-d219e385cdbd" time="1379064234641" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -64,7 +64,7 @@
       <file leaf-file-name="main.css" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/css/main.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="243" column="1" selection-start="5107" selection-end="5107" vertical-scroll-proportion="0.963714">
+            <state line="203" column="23" selection-start="4225" selection-end="4225" vertical-scroll-proportion="0.2379936">
               <folding />
             </state>
           </provider>
@@ -383,7 +383,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/css/main.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="243" column="1" selection-start="5107" selection-end="5107" vertical-scroll-proportion="0.963714">
+        <state line="203" column="23" selection-start="4225" selection-end="4225" vertical-scroll-proportion="0.2379936">
           <folding />
         </state>
       </provider>
