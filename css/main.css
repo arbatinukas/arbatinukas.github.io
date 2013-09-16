@@ -128,7 +128,7 @@ header .container {
     background: url("http://www.customtoronto.ca/img/headbg.gif");
     border-radius: 20px;
     border:2px dashed #ffffff;
-    box-shadow: 0 0 0 8px rgba(155, 152, 177, 0.24);
+    box-shadow: 0 0 0 8px rgba(155, 152, 177, 0.5);
     margin-top: 15px;
 }
 
