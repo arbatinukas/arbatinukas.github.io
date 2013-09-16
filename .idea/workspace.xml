@@ -64,7 +64,7 @@
       <file leaf-file-name="main.css" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/css/main.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="310" column="1" selection-start="6945" selection-end="6945" vertical-scroll-proportion="0.0">
+            <state line="264" column="44" selection-start="5608" selection-end="5608" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -357,23 +357,23 @@
         <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/css/normalize.css">
+    <entry file="file://$PROJECT_DIR$/productcard.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="43" column="61" selection-start="785" selection-end="785" vertical-scroll-proportion="0.0">
+        <state line="30" column="41" selection-start="1349" selection-end="1349" vertical-scroll-proportion="-14.769231">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/css/main.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="310" column="1" selection-start="6945" selection-end="6945" vertical-scroll-proportion="0.0">
+        <state line="264" column="44" selection-start="5608" selection-end="5608" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/productcard.html">
+    <entry file="file://$PROJECT_DIR$/css/normalize.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="30" column="41" selection-start="1349" selection-end="1349" vertical-scroll-proportion="-14.769231">
+        <state line="43" column="61" selection-start="785" selection-end="785" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
