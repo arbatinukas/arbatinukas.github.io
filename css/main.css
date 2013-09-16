@@ -201,7 +201,7 @@ section div ul li a{
     width: 10px;
     height: 10px;
     margin: 50px auto;
-    background: #ffffff;
+    background: black;
     border-radius: 50px;
     -webkit-animation: loader 0.9s infinite alternate;
     -moz-animation: loader 0.9s infinite alternate;
