@@ -203,8 +203,8 @@ section div ul li a{
     margin: 50px auto;
     background: black;
     border-radius: 50px;
-    -webkit-animation: loader 0.1s infinite alternate;
-    -moz-animation: loader 0.4s infinite alternate;
+    -webkit-animation: loader 0.9s infinite alternate;
+    -moz-animation: loader 0.9s infinite alternate;
 }
 .loader span:nth-of-type(2) {
     -webkit-animation-delay: 0.3s;
