@@ -31,10 +31,10 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="index.html" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="index.html" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="55" column="10" selection-start="1629" selection-end="1629" vertical-scroll-proportion="-28.115385">
+            <state line="55" column="10" selection-start="1629" selection-end="1629" vertical-scroll-proportion="0.80241495">
               <folding>
                 <marker date="1379337348716" expanded="true" signature="792:945" placeholder="..." />
                 <marker date="1379337348716" expanded="true" signature="885:913" placeholder="..." />
@@ -46,7 +46,7 @@
       <file leaf-file-name="productcard.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/productcard.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="30" column="41" selection-start="1349" selection-end="1349" vertical-scroll-proportion="0.0">
+            <state line="30" column="41" selection-start="1349" selection-end="1349" vertical-scroll-proportion="-14.769231">
               <folding />
             </state>
           </provider>
@@ -61,10 +61,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="main.css" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="main.css" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/css/main.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="152" column="19" selection-start="3461" selection-end="3461" vertical-scroll-proportion="0.72785485">
+            <state line="152" column="19" selection-start="3461" selection-end="3461" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -352,13 +352,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/productcard.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="30" column="41" selection-start="1349" selection-end="1349" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/.gitattributes">
       <provider selected="true" editor-type-id="text-editor">
         <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" />
@@ -371,20 +364,27 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/css/main.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="152" column="19" selection-start="3461" selection-end="3461" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/productcard.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="30" column="41" selection-start="1349" selection-end="1349" vertical-scroll-proportion="-14.769231">
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="55" column="10" selection-start="1629" selection-end="1629" vertical-scroll-proportion="-28.115385">
+        <state line="55" column="10" selection-start="1629" selection-end="1629" vertical-scroll-proportion="0.80241495">
           <folding>
             <marker date="1379337348716" expanded="true" signature="792:945" placeholder="..." />
             <marker date="1379337348716" expanded="true" signature="885:913" placeholder="..." />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/css/main.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="152" column="19" selection-start="3461" selection-end="3461" vertical-scroll-proportion="0.72785485">
-          <folding />
         </state>
       </provider>
     </entry>
