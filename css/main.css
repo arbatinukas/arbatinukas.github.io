@@ -125,9 +125,11 @@ textarea {
 }
 header .container {
     padding: 15px 15px;
-    border-bottom: 1px solid #b3d4fc;
+    /!* border-bottom: 1px solid #b3d4fc; */
     background: url("http://www.customtoronto.ca/img/headbg.gif");
     border-radius: 20px;
+    border:2px dashed #ffffff;
+    box-shadow: 0 0 0 8px #ff0030;
 
 }
 
