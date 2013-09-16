@@ -170,7 +170,7 @@ header nav ul li a {
 header nav ul li a:hover {
     border: 1px solid #617080;
     padding: 8px;
-    background-color: rgba(155, 152, 177, 0.48);
+    background-color: rgba(225, 241, 255, 0.58);
     border-radius: 3px;
 }
 header nav ul li .active {
