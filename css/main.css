@@ -179,7 +179,7 @@ section .container {
 h1 {
     font-size: 22px;
     color: #555;
-    font-family: HelveticaNeue-Light, sans-serif;
+    font-family:  sans-serif;
 }
 .icon-list-bullet {
     color: #555;
