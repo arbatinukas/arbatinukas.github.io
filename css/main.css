@@ -160,7 +160,7 @@ header  nav ul {
 }
 header nav ul li {
     display: inline-block;
-    margin: 0px 5px;
+    margin: 0px 10px;
 }
 header nav ul li a {
     text-decoration: none;
