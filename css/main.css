@@ -168,8 +168,7 @@ header nav ul li a {
 
 }
 header nav ul li a:hover {
-    box-shadow: 0 0 0 10px rgba(80, 152, 187, 0.48);
-    border-radius: 10px;
+    border: 1px solid #ffffff;
 }
 header nav ul li .active {
     color:
