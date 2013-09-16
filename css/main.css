@@ -173,8 +173,7 @@ header nav ul li .active {
 section .container {
     margin-top: 20px;
     border-radius: 20px;
-    border:2px dashed #ffffff;
-    box-shadow: 0 0 0 8px #ff0030;
+
 }
 h1 {
     font-size: 20px;
