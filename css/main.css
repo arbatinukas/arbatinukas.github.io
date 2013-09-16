@@ -182,7 +182,7 @@ section .container {
 }
 h1 {
     font-size: 20px;
-    color: black;
+    color: #555;
 }
 .icon-list-bullet {
     color: aliceblue;
