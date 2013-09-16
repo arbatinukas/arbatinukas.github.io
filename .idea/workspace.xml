@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="BookmarkManager">
-    <bookmark url="file://$PROJECT_DIR$/css/main.css" line="190" />
+    <bookmark url="file://$PROJECT_DIR$/css/main.css" line="189" />
   </component>
   <component name="ChangeListManager">
     <list default="true" id="81b79530-2c99-4535-8de8-d219e385cdbd" name="Default" comment="" />
@@ -61,7 +61,7 @@
       <file leaf-file-name="main.css" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/css/main.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="168" column="32" selection-start="3644" selection-end="3644" vertical-scroll-proportion="0.90710384">
+            <state line="170" column="4" selection-start="3676" selection-end="3676" vertical-scroll-proportion="0.94426227">
               <folding />
             </state>
           </provider>
@@ -375,7 +375,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/css/main.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="168" column="32" selection-start="3644" selection-end="3644" vertical-scroll-proportion="0.90710384">
+        <state line="170" column="4" selection-start="3676" selection-end="3676" vertical-scroll-proportion="0.94426227">
           <folding />
         </state>
       </provider>
