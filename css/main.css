@@ -164,7 +164,7 @@ header nav ul li {
 }
 header nav ul li a {
     text-decoration: none;
-    color: #fcfffa;
+    color: rgba(252, 255, 250, 0.39);
 
 }
 header nav ul li a:hover {
