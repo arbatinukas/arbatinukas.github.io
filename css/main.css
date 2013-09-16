@@ -165,6 +165,7 @@ header nav ul li a:hover {
     padding: 8px;
     background-color: rgba(225, 241, 255, 0.57);
     border-radius: 3px;
+    color: blue;
 }
 header nav ul li .active {
 
