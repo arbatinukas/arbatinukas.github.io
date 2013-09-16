@@ -147,9 +147,7 @@ header .logo a {
     font-size: 2.4em;
     font-family: Arial, Helvetica sans-serif;
 }
-header .logo a:hover {
-    font-size: 2.6em;
-}
+
 header  nav ul {
     padding: 15px;
 
@@ -169,7 +167,8 @@ header nav ul li a:hover {
     border-radius: 3px;
 }
 header nav ul li .active {
-    color:
+    background-color: rgba(225, 241, 255, 0.57);
+    border-radius: 3px;
 }
 section .container {
     margin-top: 20px;
