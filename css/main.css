@@ -169,6 +169,8 @@ header nav ul li a {
 }
 header nav ul li a:hover {
     border: 1px solid #ffffff;
+    padding: 5px;
+    background-color: grey;
 }
 header nav ul li .active {
     color:
