@@ -169,7 +169,7 @@ header nav ul li a {
 }
 header nav ul li a:hover {
     color: #5d4c8f;
-    box-shadow: ;
+    box-shadow: 0 0 0 8px rgba(155, 152, 177, 0.48);
 }
 header nav ul li .active {
     color:
