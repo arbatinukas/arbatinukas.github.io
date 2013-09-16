@@ -98,30 +98,97 @@ textarea {
    ========================================================================== */
  body {
      /* IE10 Consumer Preview */
-     background-image: -ms-radial-gradient(center, circle farthest-corner, #1ABC9C 0%, #16A085 100%);
+     background-image: -ms-radial-gradient(center, circle farthest-corner, #3498DB 0%, #0C2333 100%);
 
      /* Mozilla Firefox */
-     background-image: -moz-radial-gradient(center, circle farthest-corner, #1ABC9C 0%, #16A085 100%);
+     background-image: -moz-radial-gradient(center, circle farthest-corner, #3498DB 0%, #0C2333 100%);
 
      /* Opera */
-     background-image: -o-radial-gradient(center, circle farthest-corner, #1ABC9C 0%, #16A085 100%);
+     background-image: -o-radial-gradient(center, circle farthest-corner, #3498DB 0%, #0C2333 100%);
 
      /* Webkit (Safari/Chrome 10) */
-     background-image: -webkit-gradient(radial, center center, 0, center center, 506, color-stop(0, #1ABC9C), color-stop(1, #16A085));
+     background-image: -webkit-gradient(radial, center center, 0, center center, 506, color-stop(0, #3498DB), color-stop(1, #0C2333));
 
      /* Webkit (Chrome 11+) */
-     background-image: -webkit-radial-gradient(center, circle farthest-corner, #1ABC9C 0%, #16A085 100%);
+     background-image: -webkit-radial-gradient(center, circle farthest-corner, #3498DB 0%, #0C2333 100%);
 
      /* W3C Markup, IE10 Release Preview */
-     background-image: radial-gradient(circle farthest-corner at center, #1ABC9C 0%, #16A085 100%);
+     background-image: radial-gradient(circle farthest-corner at center, #3498DB 0%, #0C2333 100%);
  }
 .container {
     width: 960px;
     background: rgba(255,255,255,0.5);
     margin: 0 auto;
-
+    overflow: hidden;
+    padding: 15px;
 
 }
+header .container {
+    padding: 15px 15px;
+    border-bottom: 1px solid #b3d4fc;
+    background: url("http://www.customtoronto.ca/img/headbg.gif");
+    border-radius: 20px;
+
+}
+
+header .logo {
+    float: left;
+    width: auto;
+}
+header nav {
+    float: right;
+}
+header .logo a {
+    text-decoration: none;
+    color: #fcfffa;
+    text-shadow: -4px 4px 5px #000;
+    line-height: 2.4em;
+    font-size: 2.4em;
+    font-family: Arial, Helvetica sans-serif;
+}
+header .logo a:hover {
+    color: #fcfffa;
+}
+header  nav ul {
+    padding: 15px;
+
+}
+header nav ul li {
+    display: inline-block;
+    margin: 0px 5px;
+}
+header nav ul li a {
+    text-decoration: none;
+    color: #fcfffa;
+
+}
+header nav ul li a:hover {
+    color: floralwhite;
+}
+header nav ul li .active {
+    color:
+}
+section .container {
+    margin-top: 20px;
+    border-radius: 20px;
+}
+h1 {
+    font-size: 20px;
+    color: #fcfffa;
+}
+.icon-list-bullet {
+    color: black;
+}
+section div ul li a{
+    text-decoration: none;
+    color: white;
+}
+
+
+
+
+
+
 @font-face {
     font-family: 'fontello';
     src: url('../font/fontello.eot?64093725');
