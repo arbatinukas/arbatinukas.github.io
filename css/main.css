@@ -392,7 +392,7 @@ and (max-width : 480px) {
         font-size: 14px;
     }
         div .logo {
-            text-align: center;
+            align: center;
         }
 
 
