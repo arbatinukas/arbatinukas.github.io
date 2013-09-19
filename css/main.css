@@ -391,6 +391,7 @@ and (max-width : 480px) {
     .container{
         width: 85%;
         font-size: 14px;
+        display: inline-block;
     }
     header .logo {
         display: block;
