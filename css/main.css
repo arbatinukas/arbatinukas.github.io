@@ -392,7 +392,13 @@ and (max-width : 480px) {
         font-size: 14px;
     }
        header .logo a {
-           text-align: center;
+           display: block;
+           font-size: 2em;
+           -webkit-margin-before: 0.67em;
+           -webkit-margin-after: 0.67em;
+           -webkit-margin-start: 0px;
+           -webkit-margin-end: 0px;
+           font-weight: bold;
        }
 
 
