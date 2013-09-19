@@ -401,6 +401,7 @@ and (max-width : 480px) {
         margin: auto;
     }
     header nav ul li {
+        float: none;
         display: block;
         text-align: center;
     }
