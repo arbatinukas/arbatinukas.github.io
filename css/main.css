@@ -395,7 +395,7 @@ and (max-width : 480px) {
     header .logo {
        margin-left: 80px;
     }
-    nav {
+    header nav {
         color: #000000;
     }
         /* Styles */
