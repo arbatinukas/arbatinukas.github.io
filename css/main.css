@@ -396,6 +396,7 @@ and (max-width : 480px) {
     }
     input {
         display: block;
+        position: fixed;
     }
     ul {
         display: none;
