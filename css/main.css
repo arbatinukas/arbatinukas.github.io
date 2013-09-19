@@ -391,9 +391,8 @@ and (max-width : 480px) {
         width: 85%;
         font-size: 15px;
     }
-    header nav {
-        float: left;
-        display: inline;
+    header .logo {
+        position: absolute;
     }
 
 
