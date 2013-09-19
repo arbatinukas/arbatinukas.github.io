@@ -398,6 +398,9 @@ and (max-width : 480px) {
         display: inline-block;
         margin-left: 50px;
     }
+    ul {
+        display: none;
+    }
     /* Styles */
 }
 
