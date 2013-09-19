@@ -58,7 +58,7 @@
       <file leaf-file-name="normalize.css" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/css/normalize.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="43" column="61" selection-start="785" selection-end="785" vertical-scroll-proportion="0.0">
+            <state line="437" column="19" selection-start="7666" selection-end="7666" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -460,13 +460,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/css/normalize.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="43" column="61" selection-start="785" selection-end="785" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state line="59" column="36" selection-start="1780" selection-end="1780" vertical-scroll-proportion="-10.423077">
@@ -474,6 +467,13 @@
             <marker date="1379404205764" expanded="true" signature="792:945" placeholder="..." />
             <marker date="1379404205764" expanded="true" signature="885:913" placeholder="..." />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/normalize.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="437" column="19" selection-start="7666" selection-end="7666" vertical-scroll-proportion="0.0">
+          <folding />
         </state>
       </provider>
     </entry>
