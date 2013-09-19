@@ -396,10 +396,9 @@ and (max-width : 480px) {
        float: none;
        display: block;
      }
-    header .logo a {
+    header .logo a:hover {
         text-align: center;
-        width: auto;
-    }
+     }
     header nav {
       float: none;
       display: block;
