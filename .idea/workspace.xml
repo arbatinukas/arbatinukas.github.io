@@ -34,11 +34,14 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="index.html" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="index.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="10" column="36" selection-start="302" selection-end="302" vertical-scroll-proportion="0.020023556">
-              <folding />
+            <state line="10" column="36" selection-start="302" selection-end="302" vertical-scroll-proportion="-0.65384614">
+              <folding>
+                <marker date="1379404205764" expanded="true" signature="792:945" placeholder="..." />
+                <marker date="1379404205764" expanded="true" signature="885:913" placeholder="..." />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -61,10 +64,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="main.css" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="main.css" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/css/main.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="118" column="15" selection-start="2788" selection-end="2788" vertical-scroll-proportion="0.0">
+            <state line="118" column="15" selection-start="2788" selection-end="2788" vertical-scroll-proportion="-4.1771426">
               <folding />
             </state>
           </provider>
@@ -386,7 +389,10 @@
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state line="57" column="8" selection-start="1656" selection-end="1656" vertical-scroll-proportion="0.0">
-          <folding />
+          <folding>
+            <marker date="1379404205764" expanded="true" signature="792:945" placeholder="..." />
+            <marker date="1379404205764" expanded="true" signature="885:913" placeholder="..." />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -414,7 +420,10 @@
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state line="46" column="12" selection-start="1384" selection-end="1400" vertical-scroll-proportion="0.0">
-          <folding />
+          <folding>
+            <marker date="1379404205764" expanded="true" signature="792:945" placeholder="..." />
+            <marker date="1379404205764" expanded="true" signature="885:913" placeholder="..." />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -458,16 +467,19 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/css/main.css">
+    <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="118" column="15" selection-start="2788" selection-end="2788" vertical-scroll-proportion="0.0">
-          <folding />
+        <state line="10" column="36" selection-start="302" selection-end="302" vertical-scroll-proportion="-0.65384614">
+          <folding>
+            <marker date="1379404205764" expanded="true" signature="792:945" placeholder="..." />
+            <marker date="1379404205764" expanded="true" signature="885:913" placeholder="..." />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
+    <entry file="file://$PROJECT_DIR$/css/main.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="10" column="36" selection-start="302" selection-end="302" vertical-scroll-proportion="0.020023556">
+        <state line="118" column="15" selection-start="2788" selection-end="2788" vertical-scroll-proportion="-4.1771426">
           <folding />
         </state>
       </provider>
