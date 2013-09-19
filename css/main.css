@@ -391,7 +391,9 @@ and (max-width : 480px) {
         width: 80%;
         font-size: 15px;
     }
-
+         header div .container nav {
+             display: block;
+         }
 
     /* Styles */
 }
