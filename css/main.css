@@ -393,7 +393,8 @@ and (max-width : 480px) {
         font-size: 14px;
      }
     header .logo {
-       margin-left: 80px;
+       float: none;
+        margin: auto;
 
     }
     header nav {
