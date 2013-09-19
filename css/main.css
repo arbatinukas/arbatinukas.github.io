@@ -397,7 +397,6 @@ and (max-width : 480px) {
     }
     header nav {
         background-color: #000000;
-        float: none;
     }
     header nav ul li {
         display: block;
