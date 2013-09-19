@@ -397,7 +397,7 @@ and (max-width : 480px) {
     input {
         display: block;
     }
-    nav {
+    ul {
         display: none;
     }
 
