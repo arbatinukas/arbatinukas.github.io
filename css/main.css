@@ -394,7 +394,7 @@ and (max-width : 480px) {
      }
     header .logo {
        margin-left: 80px;
-        margin-bottom: -10px;
+
     }
     header nav {
        /* background-color: #000000; */
