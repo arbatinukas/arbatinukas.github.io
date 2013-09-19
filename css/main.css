@@ -391,9 +391,7 @@ and (max-width : 480px) {
         width: 85%;
         font-size: 14px;
     }
-    header .logo {
-        position: relative;
-    }
+
 
 
 
