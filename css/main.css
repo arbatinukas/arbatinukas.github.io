@@ -139,6 +139,9 @@ header .logo {
 header nav {
     float: right;
 }
+input {
+    display: none;
+}
 header .logo a {
     text-decoration: none;
     color: #fcfffa;
