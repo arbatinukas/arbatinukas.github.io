@@ -391,13 +391,7 @@ and (max-width : 480px) {
         width: 80%;
         font-size: 15px;
     }
-         header nav ul li {
 
-             float: left;
-         }
-         header .logo {
-
-         }
 
     /* Styles */
 }
