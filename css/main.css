@@ -396,6 +396,7 @@ and (max-width : 480px) {
     }
     input {
         display: inline-block;
+        margin: 20px auto;
     }
     /* Styles */
 }
