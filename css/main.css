@@ -393,11 +393,13 @@ and (max-width : 480px) {
         font-size: 14px;
      }
     header .logo {
+       float: none;
        display: block;
        margin-left: 80px;
      }
     header nav {
-        margin: auto;
+      float: none;
+      display: block;
     }
     header nav ul li {
         display: block;
