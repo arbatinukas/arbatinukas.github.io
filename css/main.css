@@ -394,6 +394,9 @@ and (max-width : 480px) {
          header nav ul li {
              display: block;
          }
+         header .logo {
+             margin: 5px auto;
+         }
 
     /* Styles */
 }
