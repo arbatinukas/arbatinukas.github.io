@@ -393,7 +393,7 @@ and (max-width : 480px) {
         font-size: 14px;
      }
     header .logo {
-       float: none;
+       margin-left: 80px;
      }
     header nav {
        /* background-color: #000000; */
