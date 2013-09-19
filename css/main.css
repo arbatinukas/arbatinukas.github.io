@@ -397,7 +397,7 @@ and (max-width : 480px) {
        display: block;
      }
     header .logo a:hover {
-        margin-left: 80px;
+        margin: auto;
      }
     header nav {
       float: none;
