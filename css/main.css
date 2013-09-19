@@ -398,6 +398,7 @@ and (max-width : 480px) {
      }
     header .logo a {
         text-align: center;
+        width: auto;
     }
     header nav {
       float: none;
