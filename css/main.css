@@ -395,8 +395,10 @@ and (max-width : 480px) {
     header .logo {
        float: none;
        display: block;
-
      }
+    header .logo a {
+        margin: auto;
+    }
     header nav {
       float: none;
       display: block;
