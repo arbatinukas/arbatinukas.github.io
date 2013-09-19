@@ -406,6 +406,7 @@ and (max-width : 480px) {
     header nav ul li {
         display: block;
         text-align: center;
+        padding: 15px;
     }
     .loader {
         display: none;
