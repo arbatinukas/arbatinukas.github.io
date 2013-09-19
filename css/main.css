@@ -395,14 +395,8 @@ and (max-width : 480px) {
         font-size: 14px;
     }
     input {
-        display: block;
-        position: absolute;
+        display: inline-block;
     }
-    ul {
-        display: none;
-    }
-
-
     /* Styles */
 }
 
