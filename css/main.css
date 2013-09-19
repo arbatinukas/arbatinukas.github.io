@@ -407,9 +407,6 @@ and (max-width : 480px) {
         display: block;
         text-align: center;
     }
-    header nav ul li a:hover {
-        margin-bottom: 15px;
-    }
     .loader {
         display: none;
     }
