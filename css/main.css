@@ -391,7 +391,9 @@ and (max-width : 480px) {
         width: 85%;
         font-size: 14px;
     }
-
+        div .logo {
+            text-align: center;
+        }
 
 
 
