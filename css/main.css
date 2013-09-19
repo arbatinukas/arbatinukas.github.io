@@ -394,6 +394,7 @@ and (max-width : 480px) {
        header .logo a {
            display: block;
            text-align: center;
+           float: none;
 
        }
 
