@@ -390,9 +390,7 @@ and (max-width : 480px) {
     .container{
         width: 100%;
     }
-                   header .logo a{
-                       color: red;
-                   }
+
     /* Styles */
 }
 
