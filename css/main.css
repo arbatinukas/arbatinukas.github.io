@@ -393,6 +393,7 @@ and (max-width : 480px) {
     }
     header nav {
         float: left;
+        display: block;
     }
 
 
