@@ -391,12 +391,7 @@ and (max-width : 480px) {
         width: 85%;
         font-size: 14px;
     }
-       header .logo a {
-           display: block;
-           text-align: center;
-           float: none;
 
-       }
 
 
 
