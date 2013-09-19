@@ -407,6 +407,9 @@ and (max-width : 480px) {
         display: block;
         text-align: center;
     }
+    .loader {
+        display: none;
+    }
 
         /* Styles */
 }
