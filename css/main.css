@@ -397,6 +397,9 @@ and (max-width : 480px) {
     input {
         display: block;
     }
+    nav {
+        display: none;
+    }
 
 
     /* Styles */
