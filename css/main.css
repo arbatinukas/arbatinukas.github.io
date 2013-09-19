@@ -398,6 +398,9 @@ and (max-width : 480px) {
     header nav {
         background-color: #000000;
     }
+    header nav ul li {
+        display: block;
+    }
         /* Styles */
 }
 
