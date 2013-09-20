@@ -325,8 +325,8 @@ img {
 #name {
     height: 12%;
     border-bottom: 1px dashed #2c2c2c;
-    text-align: center;
-    margin: 0 auto;
+
+    margin: 5px auto;
 }
 #exparation-date {
     text-align: center;

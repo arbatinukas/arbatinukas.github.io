@@ -7,6 +7,7 @@
   <component name="ChangeListManager">
     <list default="true" id="81b79530-2c99-4535-8de8-d219e385cdbd" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/main.css" afterPath="$PROJECT_DIR$/css/main.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="arbatinukas.github.io.git.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -69,7 +70,7 @@
       <file leaf-file-name="main.css" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/css/main.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="328" column="14" selection-start="7234" selection-end="7234" vertical-scroll-proportion="0.9028571">
+            <state line="328" column="15" selection-start="7212" selection-end="7212" vertical-scroll-proportion="0.9028571">
               <folding />
             </state>
           </provider>
@@ -485,7 +486,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/css/main.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="328" column="14" selection-start="7234" selection-end="7234" vertical-scroll-proportion="0.9028571">
+        <state line="328" column="15" selection-start="7212" selection-end="7212" vertical-scroll-proportion="0.9028571">
           <folding />
         </state>
       </provider>
