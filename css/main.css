@@ -412,7 +412,7 @@ and (max-width : 480px) {
         display: none;
     }
     .wrapper {
-        width: 85%;
+        width: 100%;
     }
 
         /* Styles */
