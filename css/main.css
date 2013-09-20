@@ -408,7 +408,7 @@ and (max-width : 480px) {
         display: none;
     }
     .wrapper {
-        width: 90%;
+        width: 80%;
     }
 
         /* Styles */
