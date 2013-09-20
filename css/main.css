@@ -387,8 +387,6 @@ and (max-width : 480px) {
     .container{
         width: 85%;
         font-size: 13px;
-    }
-    header div .container{
         height: 300px;
     }
     header .logo {
