@@ -315,10 +315,11 @@ img {
     height: 155px;
     margin-top: 15px;
     margin-left: 60px;
+    margin-bottom: 5px;
 }
 #product {
     border-bottom: 1px dashed black;
-    border-top: 55px;
+
 }
 
 
