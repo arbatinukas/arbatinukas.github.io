@@ -5,7 +5,9 @@
     <bookmark url="file://$PROJECT_DIR$/index.html" line="58" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="81b79530-2c99-4535-8de8-d219e385cdbd" name="Default" comment="" />
+    <list default="true" id="81b79530-2c99-4535-8de8-d219e385cdbd" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/main.css" afterPath="$PROJECT_DIR$/css/main.css" />
+    </list>
     <ignored path="arbatinukas.github.io.git.iws" />
     <ignored path=".idea/workspace.xml" />
     <file path="/Dummy.txt" changelist="81b79530-2c99-4535-8de8-d219e385cdbd" time="1379661362292" ignored="false" />
@@ -67,7 +69,7 @@
       <file leaf-file-name="main.css" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/css/main.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="457" column="38" selection-start="10770" selection-end="10770" vertical-scroll-proportion="-0.36685714">
+            <state line="562" column="5" selection-start="12673" selection-end="12673" vertical-scroll-proportion="0.96114284">
               <folding />
             </state>
           </provider>
@@ -484,7 +486,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/css/main.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="457" column="38" selection-start="10770" selection-end="10770" vertical-scroll-proportion="-0.36685714">
+        <state line="562" column="5" selection-start="12673" selection-end="12673" vertical-scroll-proportion="0.96114284">
           <folding />
         </state>
       </provider>
