@@ -416,6 +416,9 @@ and (max-width : 480px) {
         width: 70%;
         height: 300px;
     }
+    h1 {
+        font-size: 13px;
+    }
 
         /* Styles */
 }
