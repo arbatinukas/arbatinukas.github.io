@@ -508,9 +508,6 @@ and (orientation : landscape) {
         text-align: center;
         margin-bottom: 10px;
     }
-    .loader {
-        display: none;
-    }
     .wrapper {
         width: 232px;
         height: 300px;
@@ -551,9 +548,7 @@ and (orientation : portrait) {
         text-align: center;
         margin-bottom: 10px;
     }
-    .loader {
-        display: none;
-    }
+
     .wrapper {
         width: 232px;
         height: 300px;
