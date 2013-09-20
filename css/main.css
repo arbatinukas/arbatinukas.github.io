@@ -320,6 +320,7 @@ img {
 #product {
     border-bottom: 1px dashed #2c2c2c;
     height: 73%;
+    font-size: 15px;
 
 }
 #name {
