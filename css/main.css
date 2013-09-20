@@ -317,7 +317,7 @@ img {
     margin-left: 60px;
 }
 #product {
-    margin: auto;
+    border-bottom: 1px dashed black;
 }
 
 
