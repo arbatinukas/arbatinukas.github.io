@@ -435,7 +435,7 @@ and (min-width : 321px) {
 and (max-width : 320px) {
     .container{
         width: 65%;
-        font-size: 13px;
+        font-size: 12px;
         height: 150px;
     }
     section .container {
