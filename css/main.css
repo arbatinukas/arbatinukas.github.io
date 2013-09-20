@@ -310,37 +310,6 @@ section div ul li a{
 .ribbon-green:after {
     right: 0;
 }
-img {
-    width: 185px;
-    height: 190px;
-    margin-top: 25px;
-    margin-left: 50px;
-    margin-bottom: 40px;
-}
-#product {
-    border-bottom: 1px dashed #2c2c2c;
-    height: 73%;
-}
-#name {
-    height: 12%;
-    border-bottom: 1px dashed #2c2c2c;
-    margin: 5px 20px;
-    font-family: Arial, Helvetica, sans-serif;
-}
-#name p {
-    text-align: center;
-}
-#exparation-date {
-    height: 13%;
-    color: grey;
-}
-#exparation-date p {
-
-}
-
-
-
-
 
 @font-face {
     font-family: 'fontello';
