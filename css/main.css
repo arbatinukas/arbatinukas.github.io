@@ -421,7 +421,7 @@ and (max-width : 480px) {
         font-size: 18px;
     }
      img {
-         text-align: center;
+         position: relative;
      }
         /* Styles */
 }
