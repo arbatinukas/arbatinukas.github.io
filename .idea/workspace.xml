@@ -34,10 +34,10 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="index.html" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="index.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="57" column="74" selection-start="1730" selection-end="1730" vertical-scroll-proportion="0.8397366">
+            <state line="57" column="74" selection-start="1730" selection-end="1730" vertical-scroll-proportion="-29.423077">
               <folding>
                 <marker date="1379676292508" expanded="true" signature="792:945" placeholder="..." />
                 <marker date="1379676292508" expanded="true" signature="885:913" placeholder="..." />
@@ -64,10 +64,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="main.css" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="main.css" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/css/main.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="423" column="143" selection-start="10145" selection-end="10145" vertical-scroll-proportion="0.0">
+            <state line="438" column="18" selection-start="10420" selection-end="10420" vertical-scroll-proportion="0.40128067">
               <folding />
             </state>
           </provider>
@@ -470,20 +470,20 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/css/main.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="423" column="143" selection-start="10145" selection-end="10145" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="57" column="74" selection-start="1730" selection-end="1730" vertical-scroll-proportion="0.8397366">
+        <state line="57" column="74" selection-start="1730" selection-end="1730" vertical-scroll-proportion="-29.423077">
           <folding>
             <marker date="1379676292508" expanded="true" signature="792:945" placeholder="..." />
             <marker date="1379676292508" expanded="true" signature="885:913" placeholder="..." />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/main.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="438" column="18" selection-start="10420" selection-end="10420" vertical-scroll-proportion="0.40128067">
+          <folding />
         </state>
       </provider>
     </entry>
