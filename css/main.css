@@ -417,8 +417,8 @@ and (max-width : 480px) {
         height: 300px;
     }
 
-     section div .container {
-        font-size: 13px;
+     h1 {
+        font-size: 16px;
     }
 
         /* Styles */
