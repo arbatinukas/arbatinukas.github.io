@@ -313,7 +313,8 @@ section div ul li a{
 img {
     width: 150px;
     height: 155px;
-    margin: auto;
+    margin-top: 15px;
+    margin-left: 55px;
 }
 #product {
     margin: auto;
