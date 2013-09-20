@@ -325,7 +325,7 @@ img {
 #name {
     height: 12%;
     border-bottom: 1px dashed #2c2c2c;
-    margin: 5px auto;
+    margin: 5px 20px;
     font-family: Arial, Helvetica, sans-serif;
     font-size: 15px;
 }
