@@ -390,7 +390,7 @@ and (max-width : 480px) {
         height: 150px;
     }
     section .container {
-        height: 90px;
+        height: 80px;
     }
     header .logo {
        float: none;
