@@ -416,7 +416,8 @@ and (max-width : 480px) {
         width: 70%;
         height: 300px;
     }
-     {
+
+     section . container {
         font-size: 13px;
     }
 
