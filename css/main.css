@@ -327,6 +327,9 @@ img {
     margin: 5px 20px;
     font-family: Arial, Helvetica, sans-serif;
 }
+#name p {
+    text-align: center;
+}
 #exparation-date {
     text-align: center;
     color: grey;
