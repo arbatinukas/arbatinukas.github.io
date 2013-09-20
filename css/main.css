@@ -318,6 +318,7 @@ img {
 }
 #product {
     border-bottom: 1px dashed black;
+    border-top: 5px;
 }
 
 
