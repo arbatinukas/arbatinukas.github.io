@@ -413,7 +413,7 @@ and (max-width : 480px) {
         display: none;
     }
     .wrapper {
-        width: 70%;
+        width: 232;
         height: 300px;
     }
 
