@@ -6,12 +6,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="81b79530-2c99-4535-8de8-d219e385cdbd" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/main.css" afterPath="$PROJECT_DIR$/css/main.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
     </list>
     <ignored path="arbatinukas.github.io.git.iws" />
     <ignored path=".idea/workspace.xml" />
     <file path="/Dummy.txt" changelist="81b79530-2c99-4535-8de8-d219e385cdbd" time="1379661362292" ignored="false" />
-    <file path="/index.html" changelist="81b79530-2c99-4535-8de8-d219e385cdbd" time="1379674164164" ignored="false" />
+    <file path="/index.html" changelist="81b79530-2c99-4535-8de8-d219e385cdbd" time="1379675473521" ignored="false" />
     <file path="/style.css" changelist="81b79530-2c99-4535-8de8-d219e385cdbd" time="1378993972097" ignored="false" />
     <file path="/main.css" changelist="81b79530-2c99-4535-8de8-d219e385cdbd" time="1379675301222" ignored="false" />
     <file path="/productcard.html" changelist="81b79530-2c99-4535-8de8-d219e385cdbd" time="1379064234641" ignored="false" />
@@ -36,13 +36,13 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="index.html" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="index.html" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="59" column="24" selection-start="1766" selection-end="1766" vertical-scroll-proportion="-11.115385">
+            <state line="61" column="34" selection-start="2013" selection-end="2013" vertical-scroll-proportion="0.3804476">
               <folding>
-                <marker date="1379674963727" expanded="true" signature="792:945" placeholder="..." />
-                <marker date="1379674963727" expanded="true" signature="885:913" placeholder="..." />
+                <marker date="1379675477257" expanded="true" signature="792:945" placeholder="..." />
+                <marker date="1379675477257" expanded="true" signature="885:913" placeholder="..." />
               </folding>
             </state>
           </provider>
@@ -51,7 +51,7 @@
       <file leaf-file-name="productcard.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/productcard.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="30" column="41" selection-start="1349" selection-end="1349" vertical-scroll-proportion="-12.384615">
+            <state line="30" column="48" selection-start="1356" selection-end="1356" vertical-scroll-proportion="-19.615385">
               <folding />
             </state>
           </provider>
@@ -66,10 +66,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="main.css" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="main.css" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/css/main.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="325" column="14" selection-start="7154" selection-end="7154" vertical-scroll-proportion="0.92228574">
+            <state line="321" column="16" selection-start="7128" selection-end="7128" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -95,8 +95,8 @@
       <list>
         <option value="$PROJECT_DIR$/style.css" />
         <option value="$PROJECT_DIR$/productcard.html" />
-        <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/css/main.css" />
+        <option value="$PROJECT_DIR$/index.html" />
       </list>
     </option>
   </component>
@@ -396,8 +396,8 @@
       <provider selected="true" editor-type-id="text-editor">
         <state line="57" column="8" selection-start="1656" selection-end="1656" vertical-scroll-proportion="0.0">
           <folding>
-            <marker date="1379674963727" expanded="true" signature="792:945" placeholder="..." />
-            <marker date="1379674963727" expanded="true" signature="885:913" placeholder="..." />
+            <marker date="1379675477257" expanded="true" signature="792:945" placeholder="..." />
+            <marker date="1379675477257" expanded="true" signature="885:913" placeholder="..." />
           </folding>
         </state>
       </provider>
@@ -427,8 +427,8 @@
       <provider selected="true" editor-type-id="text-editor">
         <state line="46" column="12" selection-start="1384" selection-end="1400" vertical-scroll-proportion="0.0">
           <folding>
-            <marker date="1379674963727" expanded="true" signature="792:945" placeholder="..." />
-            <marker date="1379674963727" expanded="true" signature="885:913" placeholder="..." />
+            <marker date="1379675477257" expanded="true" signature="792:945" placeholder="..." />
+            <marker date="1379675477257" expanded="true" signature="885:913" placeholder="..." />
           </folding>
         </state>
       </provider>
@@ -466,27 +466,27 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/css/main.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="321" column="16" selection-start="7128" selection-end="7128" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/productcard.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="30" column="41" selection-start="1349" selection-end="1349" vertical-scroll-proportion="-12.384615">
+        <state line="30" column="48" selection-start="1356" selection-end="1356" vertical-scroll-proportion="-19.615385">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="59" column="24" selection-start="1766" selection-end="1766" vertical-scroll-proportion="-11.115385">
+        <state line="61" column="34" selection-start="2013" selection-end="2013" vertical-scroll-proportion="0.3804476">
           <folding>
-            <marker date="1379674963727" expanded="true" signature="792:945" placeholder="..." />
-            <marker date="1379674963727" expanded="true" signature="885:913" placeholder="..." />
+            <marker date="1379675477257" expanded="true" signature="792:945" placeholder="..." />
+            <marker date="1379675477257" expanded="true" signature="885:913" placeholder="..." />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/css/main.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="325" column="14" selection-start="7154" selection-end="7154" vertical-scroll-proportion="0.92228574">
-          <folding />
         </state>
       </provider>
     </entry>
