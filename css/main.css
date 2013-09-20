@@ -387,14 +387,13 @@ and (max-width : 480px) {
     .container{
         width: 85%;
         font-size: 13px;
-
-     }
+    }
 
     header .logo {
        float: none;
        display: block;
         text-align: center;
-     }
+    }
     header nav {
       float: none;
       display: block;
