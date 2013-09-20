@@ -322,6 +322,10 @@ img {
     height: 70%;
 
 }
+#name {
+    height: 15%;
+    border-bottom: 1px dashed black;
+}
 
 
 
