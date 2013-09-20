@@ -392,10 +392,7 @@ and (max-width : 480px) {
         width: 85%;
         font-size: 13px;
 
-     }
-    header .conteiner {
-        height: 320px;
-    }
+
     header .logo {
        float: none;
        display: block;
