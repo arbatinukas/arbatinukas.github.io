@@ -5,7 +5,9 @@
     <bookmark url="file://$PROJECT_DIR$/index.html" line="59" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="81b79530-2c99-4535-8de8-d219e385cdbd" name="Default" comment="" />
+    <list default="true" id="81b79530-2c99-4535-8de8-d219e385cdbd" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+    </list>
     <ignored path="arbatinukas.github.io.git.iws" />
     <ignored path=".idea/workspace.xml" />
     <file path="/Dummy.txt" changelist="81b79530-2c99-4535-8de8-d219e385cdbd" time="1379661362292" ignored="false" />
@@ -286,7 +288,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-50" y="76" width="1936" height="1056" extended-state="1" />
+    <frame x="-50" y="76" width="1936" height="1056" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32963374" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
