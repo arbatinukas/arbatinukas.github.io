@@ -462,8 +462,8 @@ and (max-width : 320px) {
         display: none;
     }
     .wrapper {
-        width: 232px;
-        height: 300px;
+        width: 170px;
+        height: 260px;
     }
     h1 {
         font-size: 18px;
