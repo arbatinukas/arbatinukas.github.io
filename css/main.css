@@ -386,7 +386,7 @@ and (min-width : 320px)
 and (max-width : 480px) {
     .container{
         width: 85%;
-
+        font-size: 13px;
         height: 150px;
     }
     section .container {
