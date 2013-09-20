@@ -5,9 +5,7 @@
     <bookmark url="file://$PROJECT_DIR$/index.html" line="59" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="81b79530-2c99-4535-8de8-d219e385cdbd" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
-    </list>
+    <list default="true" id="81b79530-2c99-4535-8de8-d219e385cdbd" name="Default" comment="" />
     <ignored path="arbatinukas.github.io.git.iws" />
     <ignored path=".idea/workspace.xml" />
     <file path="/Dummy.txt" changelist="81b79530-2c99-4535-8de8-d219e385cdbd" time="1379661362292" ignored="false" />
@@ -39,10 +37,10 @@
       <file leaf-file-name="index.html" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="59" column="177" selection-start="1921" selection-end="1921" vertical-scroll-proportion="0.4605418">
+            <state line="58" column="72" selection-start="1729" selection-end="1729" vertical-scroll-proportion="0.44051826">
               <folding>
-                <marker date="1379666625091" expanded="true" signature="792:945" placeholder="..." />
-                <marker date="1379666625091" expanded="true" signature="885:913" placeholder="..." />
+                <marker date="1379666828953" expanded="true" signature="792:945" placeholder="..." />
+                <marker date="1379666828953" expanded="true" signature="885:913" placeholder="..." />
               </folding>
             </state>
           </provider>
@@ -396,8 +394,8 @@
       <provider selected="true" editor-type-id="text-editor">
         <state line="57" column="8" selection-start="1656" selection-end="1656" vertical-scroll-proportion="0.0">
           <folding>
-            <marker date="1379666625091" expanded="true" signature="792:945" placeholder="..." />
-            <marker date="1379666625091" expanded="true" signature="885:913" placeholder="..." />
+            <marker date="1379666828953" expanded="true" signature="792:945" placeholder="..." />
+            <marker date="1379666828953" expanded="true" signature="885:913" placeholder="..." />
           </folding>
         </state>
       </provider>
@@ -427,8 +425,8 @@
       <provider selected="true" editor-type-id="text-editor">
         <state line="46" column="12" selection-start="1384" selection-end="1400" vertical-scroll-proportion="0.0">
           <folding>
-            <marker date="1379666625091" expanded="true" signature="792:945" placeholder="..." />
-            <marker date="1379666625091" expanded="true" signature="885:913" placeholder="..." />
+            <marker date="1379666828953" expanded="true" signature="792:945" placeholder="..." />
+            <marker date="1379666828953" expanded="true" signature="885:913" placeholder="..." />
           </folding>
         </state>
       </provider>
@@ -482,10 +480,10 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="59" column="177" selection-start="1921" selection-end="1921" vertical-scroll-proportion="0.4605418">
+        <state line="58" column="72" selection-start="1729" selection-end="1729" vertical-scroll-proportion="0.44051826">
           <folding>
-            <marker date="1379666625091" expanded="true" signature="792:945" placeholder="..." />
-            <marker date="1379666625091" expanded="true" signature="885:913" placeholder="..." />
+            <marker date="1379666828953" expanded="true" signature="792:945" placeholder="..." />
+            <marker date="1379666828953" expanded="true" signature="885:913" placeholder="..." />
           </folding>
         </state>
       </provider>
