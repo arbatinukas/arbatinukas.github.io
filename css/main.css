@@ -388,7 +388,9 @@ and (max-width : 480px) {
         width: 85%;
         font-size: 13px;
     }
-
+    header .container{
+        height: ;
+    }
     header .logo {
        float: none;
        display: block;
