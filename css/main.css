@@ -394,7 +394,7 @@ and (max-width : 480px) {
 
      }
     header .conteiner {
-        height: 340px;
+        height: 320px;
     }
     header .logo {
        float: none;
