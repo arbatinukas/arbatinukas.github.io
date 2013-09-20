@@ -310,6 +310,10 @@ section div ul li a{
 .ribbon-green:after {
     right: 0;
 }
+img {
+    width: 220;
+    height: 310;
+}
 
 
 
