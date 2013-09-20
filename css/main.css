@@ -420,6 +420,9 @@ and (max-width : 480px) {
      h1 {
         font-size: 18px;
     }
+     img {
+         text-align: center;
+     }
         /* Styles */
 }
 
