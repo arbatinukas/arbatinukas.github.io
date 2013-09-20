@@ -5,9 +5,7 @@
     <bookmark url="file://$PROJECT_DIR$/index.html" line="59" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="81b79530-2c99-4535-8de8-d219e385cdbd" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-    </list>
+    <list default="true" id="81b79530-2c99-4535-8de8-d219e385cdbd" name="Default" comment="" />
     <ignored path="arbatinukas.github.io.git.iws" />
     <ignored path=".idea/workspace.xml" />
     <file path="/Dummy.txt" changelist="81b79530-2c99-4535-8de8-d219e385cdbd" time="1379661362292" ignored="false" />
@@ -36,10 +34,10 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="index.html" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="index.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="39" column="36" selection-start="1300" selection-end="1300" vertical-scroll-proportion="0.020023556">
+            <state line="12" column="61" selection-start="380" selection-end="380" vertical-scroll-proportion="15.692307">
               <folding>
                 <marker date="1379594102651" expanded="true" signature="792:945" placeholder="..." />
                 <marker date="1379594102651" expanded="true" signature="885:913" placeholder="..." />
@@ -66,10 +64,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="main.css" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="main.css" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/css/main.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="394" column="17" selection-start="9603" selection-end="9603" vertical-scroll-proportion="0.0">
+            <state line="392" column="21" selection-start="9575" selection-end="9575" vertical-scroll-proportion="0.15542857">
               <folding />
             </state>
           </provider>
@@ -101,8 +99,7 @@
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="-50" />
-    <option name="y" value="76" />
+    <option name="x" value="-64" />
     <option name="width" value="1936" />
     <option name="height" value="1056" />
   </component>
@@ -288,7 +285,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-50" y="76" width="1936" height="1056" extended-state="0" />
+    <frame x="-64" y="0" width="1936" height="1056" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32963374" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -474,20 +471,20 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/css/main.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="394" column="17" selection-start="9603" selection-end="9603" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="39" column="36" selection-start="1300" selection-end="1300" vertical-scroll-proportion="0.020023556">
+        <state line="12" column="61" selection-start="380" selection-end="380" vertical-scroll-proportion="15.692307">
           <folding>
             <marker date="1379594102651" expanded="true" signature="792:945" placeholder="..." />
             <marker date="1379594102651" expanded="true" signature="885:913" placeholder="..." />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/main.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="392" column="21" selection-start="9575" selection-end="9575" vertical-scroll-proportion="0.15542857">
+          <folding />
         </state>
       </provider>
     </entry>
