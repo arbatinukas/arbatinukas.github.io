@@ -409,6 +409,9 @@ and (max-width : 480px) {
     .loader {
         display: none;
     }
+    .wrapper {
+
+    }
 
         /* Styles */
 }
