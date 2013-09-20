@@ -394,7 +394,7 @@ and (max-width : 480px) {
 
      }
     header {
-        height: 80%;
+        height: ;
     }
     header .logo {
        float: none;
