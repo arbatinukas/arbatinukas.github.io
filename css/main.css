@@ -393,7 +393,7 @@ and (max-width : 480px) {
         font-size: 13px;
 
      }
-    header {
+    header .conteiner {
         height: 340px;
     }
     header .logo {
