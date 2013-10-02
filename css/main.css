@@ -276,7 +276,7 @@ section div ul li a{
 .products {
     height: 700px;
     width: 90%;
-    padding: 0 auto;
+    padding:50px;
 }
 .ribbon-wrapper-green {
     width: 85px;
