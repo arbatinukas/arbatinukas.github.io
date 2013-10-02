@@ -67,7 +67,7 @@
       <file leaf-file-name="main.css" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/css/main.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="278" column="19" selection-start="5933" selection-end="5933" vertical-scroll-proportion="0.86994535">
+            <state line="277" column="12" selection-start="5910" selection-end="5910" vertical-scroll-proportion="0.8513661">
               <folding />
             </state>
           </provider>
@@ -93,8 +93,8 @@
       <list>
         <option value="$PROJECT_DIR$/style.css" />
         <option value="$PROJECT_DIR$/index.html" />
-        <option value="$PROJECT_DIR$/css/main.css" />
         <option value="$PROJECT_DIR$/productcard.html" />
+        <option value="$PROJECT_DIR$/css/main.css" />
       </list>
     </option>
   </component>
@@ -484,7 +484,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/css/main.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="278" column="19" selection-start="5933" selection-end="5933" vertical-scroll-proportion="0.86994535">
+        <state line="277" column="12" selection-start="5910" selection-end="5910" vertical-scroll-proportion="0.8513661">
           <folding />
         </state>
       </provider>
