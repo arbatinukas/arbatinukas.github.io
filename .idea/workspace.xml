@@ -14,7 +14,7 @@
     <file path="/index.html" changelist="81b79530-2c99-4535-8de8-d219e385cdbd" time="1380700864076" ignored="false" />
     <file path="/style.css" changelist="81b79530-2c99-4535-8de8-d219e385cdbd" time="1378993972097" ignored="false" />
     <file path="/main.css" changelist="81b79530-2c99-4535-8de8-d219e385cdbd" time="1380715311004" ignored="false" />
-    <file path="/productcard.html" changelist="81b79530-2c99-4535-8de8-d219e385cdbd" time="1380715419358" ignored="false" />
+    <file path="/productcard.html" changelist="81b79530-2c99-4535-8de8-d219e385cdbd" time="1380715447277" ignored="false" />
     <file path="$USER_HOME$/WebstormProjects/arbatinukas.github.io/index.html" changelist="81b79530-2c99-4535-8de8-d219e385cdbd" time="1379403768966" ignored="false" />
     <file path="$USER_HOME$/WebstormProjects/arbatinukas.github.io/.idea/workspace.xml" changelist="81b79530-2c99-4535-8de8-d219e385cdbd" time="1379403848999" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -51,7 +51,7 @@
       <file leaf-file-name="productcard.html" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/productcard.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="68" column="19" selection-start="3015" selection-end="3015" vertical-scroll-proportion="0.82789654">
+            <state line="40" column="76" selection-start="1723" selection-end="1723" vertical-scroll-proportion="0.29246345">
               <folding />
             </state>
           </provider>
@@ -486,7 +486,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/productcard.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="68" column="19" selection-start="3015" selection-end="3015" vertical-scroll-proportion="0.82789654">
+        <state line="40" column="76" selection-start="1723" selection-end="1723" vertical-scroll-proportion="0.29246345">
           <folding />
         </state>
       </provider>
