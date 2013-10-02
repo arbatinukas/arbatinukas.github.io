@@ -5,15 +5,13 @@
     <bookmark url="file://$PROJECT_DIR$/index.html" line="58" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="81b79530-2c99-4535-8de8-d219e385cdbd" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/main.css" afterPath="$PROJECT_DIR$/css/main.css" />
-    </list>
+    <list default="true" id="81b79530-2c99-4535-8de8-d219e385cdbd" name="Default" comment="" />
     <ignored path="arbatinukas.github.io.git.iws" />
     <ignored path=".idea/workspace.xml" />
     <file path="/Dummy.txt" changelist="81b79530-2c99-4535-8de8-d219e385cdbd" time="1380712989024" ignored="false" />
     <file path="/index.html" changelist="81b79530-2c99-4535-8de8-d219e385cdbd" time="1380700864076" ignored="false" />
     <file path="/style.css" changelist="81b79530-2c99-4535-8de8-d219e385cdbd" time="1378993972097" ignored="false" />
-    <file path="/main.css" changelist="81b79530-2c99-4535-8de8-d219e385cdbd" time="1380717677982" ignored="false" />
+    <file path="/main.css" changelist="81b79530-2c99-4535-8de8-d219e385cdbd" time="1380717760045" ignored="false" />
     <file path="/productcard.html" changelist="81b79530-2c99-4535-8de8-d219e385cdbd" time="1380715447277" ignored="false" />
     <file path="$USER_HOME$/WebstormProjects/arbatinukas.github.io/index.html" changelist="81b79530-2c99-4535-8de8-d219e385cdbd" time="1379403768966" ignored="false" />
     <file path="$USER_HOME$/WebstormProjects/arbatinukas.github.io/.idea/workspace.xml" changelist="81b79530-2c99-4535-8de8-d219e385cdbd" time="1379403848999" ignored="false" />
@@ -69,7 +67,7 @@
       <file leaf-file-name="main.css" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/css/main.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="273" column="23" selection-start="5897" selection-end="5897" vertical-scroll-proportion="0.7956284">
+            <state line="273" column="0" selection-start="5874" selection-end="5874" vertical-scroll-proportion="0.7956284">
               <folding />
             </state>
           </provider>
@@ -486,7 +484,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/css/main.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="273" column="23" selection-start="5897" selection-end="5897" vertical-scroll-proportion="0.7956284">
+        <state line="273" column="0" selection-start="5874" selection-end="5874" vertical-scroll-proportion="0.7956284">
           <folding />
         </state>
       </provider>
