@@ -270,6 +270,7 @@ section div ul li a{
     position: relative;
     z-index: 90;
     float: left;
+    margin-top: 20px;
 }
 .products {
     height: 700px;
