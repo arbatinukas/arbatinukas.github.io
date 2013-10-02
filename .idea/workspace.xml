@@ -5,7 +5,9 @@
     <bookmark url="file://$PROJECT_DIR$/index.html" line="58" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="81b79530-2c99-4535-8de8-d219e385cdbd" name="Default" comment="" />
+    <list default="true" id="81b79530-2c99-4535-8de8-d219e385cdbd" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/productcard.html" afterPath="$PROJECT_DIR$/productcard.html" />
+    </list>
     <ignored path="arbatinukas.github.io.git.iws" />
     <ignored path=".idea/workspace.xml" />
     <file path="/Dummy.txt" changelist="81b79530-2c99-4535-8de8-d219e385cdbd" time="1380712989024" ignored="false" />
@@ -49,7 +51,7 @@
       <file leaf-file-name="productcard.html" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/productcard.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="12" column="149" selection-start="622" selection-end="622" vertical-scroll-proportion="0.087739035">
+            <state line="44" column="8" selection-start="1784" selection-end="1784" vertical-scroll-proportion="0.84139484">
               <folding />
             </state>
           </provider>
@@ -484,7 +486,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/productcard.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="12" column="149" selection-start="622" selection-end="622" vertical-scroll-proportion="0.087739035">
+        <state line="44" column="8" selection-start="1784" selection-end="1784" vertical-scroll-proportion="0.84139484">
           <folding />
         </state>
       </provider>
