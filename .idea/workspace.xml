@@ -14,7 +14,7 @@
     <file path="/index.html" changelist="81b79530-2c99-4535-8de8-d219e385cdbd" time="1380700864076" ignored="false" />
     <file path="/style.css" changelist="81b79530-2c99-4535-8de8-d219e385cdbd" time="1378993972097" ignored="false" />
     <file path="/main.css" changelist="81b79530-2c99-4535-8de8-d219e385cdbd" time="1380713375617" ignored="false" />
-    <file path="/productcard.html" changelist="81b79530-2c99-4535-8de8-d219e385cdbd" time="1380714796923" ignored="false" />
+    <file path="/productcard.html" changelist="81b79530-2c99-4535-8de8-d219e385cdbd" time="1380714900385" ignored="false" />
     <file path="$USER_HOME$/WebstormProjects/arbatinukas.github.io/index.html" changelist="81b79530-2c99-4535-8de8-d219e385cdbd" time="1379403768966" ignored="false" />
     <file path="$USER_HOME$/WebstormProjects/arbatinukas.github.io/.idea/workspace.xml" changelist="81b79530-2c99-4535-8de8-d219e385cdbd" time="1379403848999" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -51,7 +51,7 @@
       <file leaf-file-name="productcard.html" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/productcard.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="42" column="18" selection-start="1764" selection-end="1764" vertical-scroll-proportion="0.784027">
+            <state line="44" column="29" selection-start="1812" selection-end="1812" vertical-scroll-proportion="0.82227224">
               <folding />
             </state>
           </provider>
@@ -486,7 +486,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/productcard.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="42" column="18" selection-start="1764" selection-end="1764" vertical-scroll-proportion="0.784027">
+        <state line="44" column="29" selection-start="1812" selection-end="1812" vertical-scroll-proportion="0.82227224">
           <folding />
         </state>
       </provider>
