@@ -5,14 +5,16 @@
     <bookmark url="file://$PROJECT_DIR$/index.html" line="58" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="81b79530-2c99-4535-8de8-d219e385cdbd" name="Default" comment="" />
+    <list default="true" id="81b79530-2c99-4535-8de8-d219e385cdbd" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/productcard.html" afterPath="$PROJECT_DIR$/productcard.html" />
+    </list>
     <ignored path="arbatinukas.github.io.git.iws" />
     <ignored path=".idea/workspace.xml" />
     <file path="/Dummy.txt" changelist="81b79530-2c99-4535-8de8-d219e385cdbd" time="1380712989024" ignored="false" />
     <file path="/index.html" changelist="81b79530-2c99-4535-8de8-d219e385cdbd" time="1380700864076" ignored="false" />
     <file path="/style.css" changelist="81b79530-2c99-4535-8de8-d219e385cdbd" time="1378993972097" ignored="false" />
     <file path="/main.css" changelist="81b79530-2c99-4535-8de8-d219e385cdbd" time="1380717760045" ignored="false" />
-    <file path="/productcard.html" changelist="81b79530-2c99-4535-8de8-d219e385cdbd" time="1380715447277" ignored="false" />
+    <file path="/productcard.html" changelist="81b79530-2c99-4535-8de8-d219e385cdbd" time="1380719745927" ignored="false" />
     <file path="$USER_HOME$/WebstormProjects/arbatinukas.github.io/index.html" changelist="81b79530-2c99-4535-8de8-d219e385cdbd" time="1379403768966" ignored="false" />
     <file path="$USER_HOME$/WebstormProjects/arbatinukas.github.io/.idea/workspace.xml" changelist="81b79530-2c99-4535-8de8-d219e385cdbd" time="1379403848999" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -46,10 +48,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="productcard.html" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="productcard.html" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/productcard.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="64" column="8" selection-start="2799" selection-end="2799" vertical-scroll-proportion="-25.692308">
+            <state line="54" column="77" selection-start="2410" selection-end="2410" vertical-scroll-proportion="0.56017995">
               <folding />
             </state>
           </provider>
@@ -64,10 +66,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="main.css" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="main.css" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/css/main.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="276" column="12" selection-start="5919" selection-end="5919" vertical-scroll-proportion="0.8513661">
+            <state line="276" column="12" selection-start="5919" selection-end="5919" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -93,8 +95,8 @@
       <list>
         <option value="$PROJECT_DIR$/style.css" />
         <option value="$PROJECT_DIR$/index.html" />
-        <option value="$PROJECT_DIR$/productcard.html" />
         <option value="$PROJECT_DIR$/css/main.css" />
+        <option value="$PROJECT_DIR$/productcard.html" />
       </list>
     </option>
   </component>
@@ -475,16 +477,16 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/productcard.html">
+    <entry file="file://$PROJECT_DIR$/css/main.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="64" column="8" selection-start="2799" selection-end="2799" vertical-scroll-proportion="-25.692308">
+        <state line="276" column="12" selection-start="5919" selection-end="5919" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/css/main.css">
+    <entry file="file://$PROJECT_DIR$/productcard.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="276" column="12" selection-start="5919" selection-end="5919" vertical-scroll-proportion="0.8513661">
+        <state line="54" column="77" selection-start="2410" selection-end="2410" vertical-scroll-proportion="0.56017995">
           <folding />
         </state>
       </provider>
