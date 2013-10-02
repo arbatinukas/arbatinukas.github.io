@@ -5,14 +5,16 @@
     <bookmark url="file://$PROJECT_DIR$/index.html" line="58" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="81b79530-2c99-4535-8de8-d219e385cdbd" name="Default" comment="" />
+    <list default="true" id="81b79530-2c99-4535-8de8-d219e385cdbd" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/productcard.html" afterPath="$PROJECT_DIR$/productcard.html" />
+    </list>
     <ignored path="arbatinukas.github.io.git.iws" />
     <ignored path=".idea/workspace.xml" />
     <file path="/Dummy.txt" changelist="81b79530-2c99-4535-8de8-d219e385cdbd" time="1380712989024" ignored="false" />
     <file path="/index.html" changelist="81b79530-2c99-4535-8de8-d219e385cdbd" time="1380700864076" ignored="false" />
     <file path="/style.css" changelist="81b79530-2c99-4535-8de8-d219e385cdbd" time="1378993972097" ignored="false" />
     <file path="/main.css" changelist="81b79530-2c99-4535-8de8-d219e385cdbd" time="1380713375617" ignored="false" />
-    <file path="/productcard.html" changelist="81b79530-2c99-4535-8de8-d219e385cdbd" time="1379064234641" ignored="false" />
+    <file path="/productcard.html" changelist="81b79530-2c99-4535-8de8-d219e385cdbd" time="1380714796923" ignored="false" />
     <file path="$USER_HOME$/WebstormProjects/arbatinukas.github.io/index.html" changelist="81b79530-2c99-4535-8de8-d219e385cdbd" time="1379403768966" ignored="false" />
     <file path="$USER_HOME$/WebstormProjects/arbatinukas.github.io/.idea/workspace.xml" changelist="81b79530-2c99-4535-8de8-d219e385cdbd" time="1379403848999" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -37,7 +39,7 @@
       <file leaf-file-name="index.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="60" column="10" selection-start="1324" selection-end="1765" vertical-scroll-proportion="-19.615385">
+            <state line="58" column="11" selection-start="1634" selection-end="1753" vertical-scroll-proportion="-18.307692">
               <folding>
                 <marker date="1380700973289" expanded="true" signature="792:945" placeholder="..." />
                 <marker date="1380700973289" expanded="true" signature="885:913" placeholder="..." />
@@ -49,7 +51,7 @@
       <file leaf-file-name="productcard.html" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/productcard.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="36" column="18" selection-start="1521" selection-end="1521" vertical-scroll-proportion="0.688414">
+            <state line="47" column="27" selection-start="1969" selection-end="1969" vertical-scroll-proportion="0.89876264">
               <folding />
             </state>
           </provider>
@@ -474,7 +476,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="60" column="10" selection-start="1324" selection-end="1765" vertical-scroll-proportion="-19.615385">
+        <state line="58" column="11" selection-start="1634" selection-end="1753" vertical-scroll-proportion="-18.307692">
           <folding>
             <marker date="1380700973289" expanded="true" signature="792:945" placeholder="..." />
             <marker date="1380700973289" expanded="true" signature="885:913" placeholder="..." />
@@ -484,7 +486,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/productcard.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="36" column="18" selection-start="1521" selection-end="1521" vertical-scroll-proportion="0.688414">
+        <state line="47" column="27" selection-start="1969" selection-end="1969" vertical-scroll-proportion="0.89876264">
           <folding />
         </state>
       </provider>
