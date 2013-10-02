@@ -273,7 +273,8 @@ section div ul li a{
     margin-left: 50px;
 }
 .products {
-    margin-top: 1500px auto;
+    height: 2000px;
+    width: 80%;
 }
 .ribbon-wrapper-green {
     width: 85px;
