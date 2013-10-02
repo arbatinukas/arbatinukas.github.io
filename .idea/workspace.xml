@@ -46,10 +46,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="productcard.html" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="productcard.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/productcard.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="37" column="12" selection-start="1534" selection-end="1534" vertical-scroll-proportion="0.23509562">
+            <state line="37" column="12" selection-start="1534" selection-end="1534" vertical-scroll-proportion="-8.038462">
               <folding />
             </state>
           </provider>
@@ -64,10 +64,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="main.css" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="main.css" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/css/main.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="269" column="22" selection-start="5806" selection-end="5806" vertical-scroll-proportion="0.0">
+            <state line="278" column="19" selection-start="5933" selection-end="5933" vertical-scroll-proportion="0.86994535">
               <folding />
             </state>
           </provider>
@@ -475,16 +475,16 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/css/main.css">
+    <entry file="file://$PROJECT_DIR$/productcard.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="269" column="22" selection-start="5806" selection-end="5806" vertical-scroll-proportion="0.0">
+        <state line="37" column="12" selection-start="1534" selection-end="1534" vertical-scroll-proportion="-8.038462">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/productcard.html">
+    <entry file="file://$PROJECT_DIR$/css/main.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="37" column="12" selection-start="1534" selection-end="1534" vertical-scroll-proportion="0.23509562">
+        <state line="278" column="19" selection-start="5933" selection-end="5933" vertical-scroll-proportion="0.86994535">
           <folding />
         </state>
       </provider>
