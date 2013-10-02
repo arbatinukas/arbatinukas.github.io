@@ -270,6 +270,7 @@ section div ul li a{
     position: relative;
     z-index: 90;
     float: left;
+    margin-left: 20px;
 }
 
 
