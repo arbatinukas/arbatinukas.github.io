@@ -5,12 +5,10 @@
     <bookmark url="file://$PROJECT_DIR$/index.html" line="58" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="81b79530-2c99-4535-8de8-d219e385cdbd" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/productcard.html" afterPath="$PROJECT_DIR$/productcard.html" />
-    </list>
+    <list default="true" id="81b79530-2c99-4535-8de8-d219e385cdbd" name="Default" comment="" />
     <ignored path="arbatinukas.github.io.git.iws" />
     <ignored path=".idea/workspace.xml" />
-    <file path="/Dummy.txt" changelist="81b79530-2c99-4535-8de8-d219e385cdbd" time="1380712989024" ignored="false" />
+    <file path="/Dummy.txt" changelist="81b79530-2c99-4535-8de8-d219e385cdbd" time="1380874604586" ignored="false" />
     <file path="/index.html" changelist="81b79530-2c99-4535-8de8-d219e385cdbd" time="1380700864076" ignored="false" />
     <file path="/style.css" changelist="81b79530-2c99-4535-8de8-d219e385cdbd" time="1378993972097" ignored="false" />
     <file path="/main.css" changelist="81b79530-2c99-4535-8de8-d219e385cdbd" time="1380717760045" ignored="false" />
@@ -39,7 +37,7 @@
       <file leaf-file-name="index.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="58" column="10" selection-start="1634" selection-end="1753" vertical-scroll-proportion="-18.307692">
+            <state line="58" column="10" selection-start="1634" selection-end="1753" vertical-scroll-proportion="0.0">
               <folding>
                 <marker date="1380700973289" expanded="true" signature="792:945" placeholder="..." />
                 <marker date="1380700973289" expanded="true" signature="885:913" placeholder="..." />
@@ -51,7 +49,7 @@
       <file leaf-file-name="productcard.html" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/productcard.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="54" column="77" selection-start="2410" selection-end="2410" vertical-scroll-proportion="0.56017995">
+            <state line="54" column="77" selection-start="2410" selection-end="2410" vertical-scroll-proportion="0.38633686">
               <folding />
             </state>
           </provider>
@@ -101,10 +99,10 @@
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="1912" />
+    <option name="x" value="-8" />
     <option name="y" value="-8" />
     <option name="width" value="1936" />
-    <option name="height" value="1096" />
+    <option name="height" value="1056" />
   </component>
   <component name="ProjectInspectionProfilesVisibleTreeState">
     <entry key="Project Default">
@@ -231,8 +229,8 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="options.lastSelected" value="editor" />
     <property name="FullScreen" value="false" />
-    <property name="options.searchVisible" value="true" />
     <property name="options.splitter.details.proportions" value="0.2" />
+    <property name="options.searchVisible" value="true" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -288,8 +286,8 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="1912" y="-8" width="1936" height="1096" extended-state="6" />
-    <editor active="false" />
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="7" />
+    <editor active="true" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32963374" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -469,7 +467,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="58" column="10" selection-start="1634" selection-end="1753" vertical-scroll-proportion="-18.307692">
+        <state line="58" column="10" selection-start="1634" selection-end="1753" vertical-scroll-proportion="0.0">
           <folding>
             <marker date="1380700973289" expanded="true" signature="792:945" placeholder="..." />
             <marker date="1380700973289" expanded="true" signature="885:913" placeholder="..." />
@@ -486,7 +484,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/productcard.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="54" column="77" selection-start="2410" selection-end="2410" vertical-scroll-proportion="0.56017995">
+        <state line="54" column="77" selection-start="2410" selection-end="2410" vertical-scroll-proportion="0.38633686">
           <folding />
         </state>
       </provider>
