@@ -5,9 +5,7 @@
     <bookmark url="file://$PROJECT_DIR$/index.html" line="58" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="81b79530-2c99-4535-8de8-d219e385cdbd" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/userlist.html" afterPath="$PROJECT_DIR$/userlist.html" />
-    </list>
+    <list default="true" id="81b79530-2c99-4535-8de8-d219e385cdbd" name="Default" comment="" />
     <ignored path="arbatinukas.github.io.git.iws" />
     <ignored path=".idea/workspace.xml" />
     <file path="/Dummy.txt" changelist="81b79530-2c99-4535-8de8-d219e385cdbd" time="1380874604586" ignored="false" />
@@ -36,10 +34,10 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="index.html" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="index.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="8" column="134" selection-start="268" selection-end="268" vertical-scroll-proportion="0.1492865">
+            <state line="8" column="134" selection-start="268" selection-end="268" vertical-scroll-proportion="-5.230769">
               <folding>
                 <marker date="1380700973289" expanded="true" signature="792:945" placeholder="..." />
                 <marker date="1380700973289" expanded="true" signature="885:913" placeholder="..." />
@@ -48,10 +46,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="productcard.html" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="productcard.html" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/productcard.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="54" column="77" selection-start="2410" selection-end="2410" vertical-scroll-proportion="-14.115385">
+            <state line="54" column="77" selection-start="2410" selection-end="2410" vertical-scroll-proportion="0.402854">
               <folding />
             </state>
           </provider>
@@ -533,10 +531,13 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/productcard.html">
+    <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="54" column="77" selection-start="2410" selection-end="2410" vertical-scroll-proportion="-14.115385">
-          <folding />
+        <state line="8" column="134" selection-start="268" selection-end="268" vertical-scroll-proportion="-5.230769">
+          <folding>
+            <marker date="1380700973289" expanded="true" signature="792:945" placeholder="..." />
+            <marker date="1380700973289" expanded="true" signature="885:913" placeholder="..." />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -550,13 +551,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
+    <entry file="file://$PROJECT_DIR$/productcard.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="8" column="134" selection-start="268" selection-end="268" vertical-scroll-proportion="0.1492865">
-          <folding>
-            <marker date="1380700973289" expanded="true" signature="792:945" placeholder="..." />
-            <marker date="1380700973289" expanded="true" signature="885:913" placeholder="..." />
-          </folding>
+        <state line="54" column="77" selection-start="2410" selection-end="2410" vertical-scroll-proportion="0.402854">
+          <folding />
         </state>
       </provider>
     </entry>
