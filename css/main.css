@@ -286,8 +286,7 @@ section div ul li a{
     right: -3px;
 }
 section .list {
-    width: 980px;
-    background: rgba(255,255,255,0.5);
+    width: 480px;
     margin: 0 auto;
     overflow: hidden;
     padding: 20px;
