@@ -285,6 +285,16 @@ section div ul li a{
     top: -3px;
     right: -3px;
 }
+section .list {
+    width: 980px;
+    background: rgba(255,255,255,0.5);
+    margin: 0 auto;
+    overflow: hidden;
+    padding: 20px;
+    margin-top: 20px;
+    border-radius: 20px;
+    background-color: #f1f1f1;
+}
 
 .ribbon-green {
     font: bold 15px Sans-Serif;
