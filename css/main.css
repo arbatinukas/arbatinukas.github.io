@@ -299,6 +299,11 @@ form header {
     height: 50px;
     background-color: saddlebrown;
     padding-top: 10px;
+
+}
+form header p {
+    color: #ffffff;
+    font-family: "Helvetica Neue Light", sans-serif ;
 }
 
 .ribbon-green {
