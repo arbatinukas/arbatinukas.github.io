@@ -298,7 +298,7 @@ form {
 form header {
     height: 50px;
     background-color: saddlebrown;
-    margin
+    padding-top: 20px;
 }
 
 .ribbon-green {
