@@ -6,7 +6,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="81b79530-2c99-4535-8de8-d219e385cdbd" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/userlist.html" afterPath="$PROJECT_DIR$/userlist.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="arbatinukas.github.io.git.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -58,10 +58,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="userlist.html" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="userlist.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/userlist.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="48" column="16" selection-start="1405" selection-end="1405" vertical-scroll-proportion="0.38807648">
+            <state line="48" column="16" selection-start="1405" selection-end="1405" vertical-scroll-proportion="-13.269231">
               <folding>
                 <marker date="1381325463466" expanded="true" signature="792:945" placeholder="..." />
                 <marker date="1381325463466" expanded="true" signature="885:913" placeholder="..." />
@@ -79,10 +79,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="main.css" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="main.css" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/css/main.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="287" column="4" selection-start="6088" selection-end="6088" vertical-scroll-proportion="0.0">
+            <state line="287" column="4" selection-start="6088" selection-end="6088" vertical-scroll-proportion="0.50163937">
               <folding />
             </state>
           </provider>
@@ -549,13 +549,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/css/main.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="287" column="4" selection-start="6088" selection-end="6088" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/productcard.html">
       <provider selected="true" editor-type-id="text-editor">
         <state line="39" column="32" selection-start="1624" selection-end="1624" vertical-scroll-proportion="-3.4615386">
@@ -575,11 +568,18 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/userlist.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="48" column="16" selection-start="1405" selection-end="1405" vertical-scroll-proportion="0.38807648">
+        <state line="48" column="16" selection-start="1405" selection-end="1405" vertical-scroll-proportion="-13.269231">
           <folding>
             <marker date="1381325463466" expanded="true" signature="792:945" placeholder="..." />
             <marker date="1381325463466" expanded="true" signature="885:913" placeholder="..." />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/main.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="287" column="4" selection-start="6088" selection-end="6088" vertical-scroll-proportion="0.50163937">
+          <folding />
         </state>
       </provider>
     </entry>
