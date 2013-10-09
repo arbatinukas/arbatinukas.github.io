@@ -291,7 +291,7 @@ section .list {
     overflow: hidden;
     padding: 20px;
     margin-top: 20px;
-    border-radius: 20px;
+    border-radius: 10px;
     background-color: #f1f1f1;
 }
 

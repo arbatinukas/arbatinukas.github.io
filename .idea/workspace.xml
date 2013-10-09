@@ -53,10 +53,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="userlist.html" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="userlist.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/userlist.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="57" column="30" selection-start="1753" selection-end="1753" vertical-scroll-proportion="0.56017995">
+            <state line="57" column="30" selection-start="1753" selection-end="1753" vertical-scroll-proportion="-19.153847">
               <folding>
                 <marker date="1380886669777" expanded="true" signature="792:945" placeholder="..." />
                 <marker date="1380886669777" expanded="true" signature="885:913" placeholder="..." />
@@ -74,10 +74,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="main.css" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="main.css" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/css/main.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="302" column="79" selection-start="6438" selection-end="6438" vertical-scroll-proportion="0.0">
+            <state line="293" column="20" selection-start="6221" selection-end="6221" vertical-scroll-proportion="0.39016393">
               <folding />
             </state>
           </provider>
@@ -545,13 +545,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/css/main.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="302" column="79" selection-start="6438" selection-end="6438" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state line="49" column="58" selection-start="1561" selection-end="1561" vertical-scroll-proportion="-3.2307692">
@@ -561,11 +554,18 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/userlist.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="57" column="30" selection-start="1753" selection-end="1753" vertical-scroll-proportion="0.56017995">
+        <state line="57" column="30" selection-start="1753" selection-end="1753" vertical-scroll-proportion="-19.153847">
           <folding>
             <marker date="1380886669777" expanded="true" signature="792:945" placeholder="..." />
             <marker date="1380886669777" expanded="true" signature="885:913" placeholder="..." />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/main.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="293" column="20" selection-start="6221" selection-end="6221" vertical-scroll-proportion="0.39016393">
+          <folding />
         </state>
       </provider>
     </entry>
