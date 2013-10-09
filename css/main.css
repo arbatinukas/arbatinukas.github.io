@@ -290,7 +290,6 @@ form {
     height: 340px;
     margin: 0 auto;
     overflow: hidden;
-    padding: 20px;
     margin-top: 20px;
     border-radius: 10px;
     background-color: #f1f1f1;
@@ -299,6 +298,7 @@ form {
 form header {
     height: 50px;
     background-color: saddlebrown;
+    margin
 }
 
 .ribbon-green {
