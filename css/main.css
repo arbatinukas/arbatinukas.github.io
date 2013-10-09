@@ -305,6 +305,7 @@ form header p {
     color: #ffffff;
     font-family: Verdana;
     padding-left: 10px;
+    display: center;
 }
 
 .ribbon-green {
