@@ -7,6 +7,7 @@
   <component name="ChangeListManager">
     <list default="true" id="81b79530-2c99-4535-8de8-d219e385cdbd" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/main.css" afterPath="$PROJECT_DIR$/css/main.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/userlist.html" afterPath="$PROJECT_DIR$/userlist.html" />
     </list>
     <ignored path="arbatinukas.github.io.git.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -17,7 +18,7 @@
     <file path="/productcard.html" changelist="81b79530-2c99-4535-8de8-d219e385cdbd" time="1380719745927" ignored="false" />
     <file path="$USER_HOME$/WebstormProjects/arbatinukas.github.io/index.html" changelist="81b79530-2c99-4535-8de8-d219e385cdbd" time="1379403768966" ignored="false" />
     <file path="$USER_HOME$/WebstormProjects/arbatinukas.github.io/.idea/workspace.xml" changelist="81b79530-2c99-4535-8de8-d219e385cdbd" time="1379403848999" ignored="false" />
-    <file path="/userlist.html" changelist="81b79530-2c99-4535-8de8-d219e385cdbd" time="1381325180011" ignored="false" />
+    <file path="/userlist.html" changelist="81b79530-2c99-4535-8de8-d219e385cdbd" time="1381325986161" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -58,13 +59,13 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="userlist.html" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="userlist.html" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/userlist.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="48" column="16" selection-start="1405" selection-end="1405" vertical-scroll-proportion="-13.269231">
+            <state line="47" column="40" selection-start="1401" selection-end="1401" vertical-scroll-proportion="0.36895388">
               <folding>
-                <marker date="1381325463466" expanded="true" signature="792:945" placeholder="..." />
-                <marker date="1381325463466" expanded="true" signature="885:913" placeholder="..." />
+                <marker date="1381325991743" expanded="true" signature="792:945" placeholder="..." />
+                <marker date="1381325991743" expanded="true" signature="885:913" placeholder="..." />
               </folding>
             </state>
           </provider>
@@ -79,10 +80,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="main.css" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="main.css" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/css/main.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="305" column="41" selection-start="6469" selection-end="6479" vertical-scroll-proportion="0.8360656">
+            <state line="305" column="52" selection-start="6480" selection-end="6480" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -110,8 +111,8 @@
         <option value="$PROJECT_DIR$/style.css" />
         <option value="$PROJECT_DIR$/productcard.html" />
         <option value="$PROJECT_DIR$/index.html" />
-        <option value="$PROJECT_DIR$/userlist.html" />
         <option value="$PROJECT_DIR$/css/main.css" />
+        <option value="$PROJECT_DIR$/userlist.html" />
       </list>
     </option>
   </component>
@@ -542,13 +543,6 @@
         <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/css/normalize.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="437" column="19" selection-start="7666" selection-end="7666" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/productcard.html">
       <provider selected="true" editor-type-id="text-editor">
         <state line="39" column="32" selection-start="1624" selection-end="1624" vertical-scroll-proportion="-3.4615386">
@@ -566,20 +560,27 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/userlist.html">
+    <entry file="file://$PROJECT_DIR$/css/main.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="48" column="16" selection-start="1405" selection-end="1405" vertical-scroll-proportion="-13.269231">
-          <folding>
-            <marker date="1381325463466" expanded="true" signature="792:945" placeholder="..." />
-            <marker date="1381325463466" expanded="true" signature="885:913" placeholder="..." />
-          </folding>
+        <state line="305" column="52" selection-start="6480" selection-end="6480" vertical-scroll-proportion="0.0">
+          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/css/main.css">
+    <entry file="file://$PROJECT_DIR$/css/normalize.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="305" column="41" selection-start="6469" selection-end="6479" vertical-scroll-proportion="0.8360656">
+        <state line="437" column="19" selection-start="7666" selection-end="7666" vertical-scroll-proportion="0.0">
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/userlist.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="47" column="40" selection-start="1401" selection-end="1401" vertical-scroll-proportion="0.36895388">
+          <folding>
+            <marker date="1381325991743" expanded="true" signature="792:945" placeholder="..." />
+            <marker date="1381325991743" expanded="true" signature="885:913" placeholder="..." />
+          </folding>
         </state>
       </provider>
     </entry>
