@@ -303,7 +303,7 @@ form header {
 }
 form header p {
     color: #ffffff;
-    font-family: "Helvetica Neue Light", sans-serif;
+    font-family: "Helvetica Neue Light", Verdana,  sans-serif;
 }
 
 .ribbon-green {
