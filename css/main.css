@@ -294,7 +294,7 @@ section .list {
     margin-top: 20px;
     border-radius: 10px;
     background-color: #f1f1f1;
-    box-shadow: 0 0 0 3px;
+    box-shadow: 0px 0px 8px rgba(0,0,0,0.3);
 }
 
 .ribbon-green {
