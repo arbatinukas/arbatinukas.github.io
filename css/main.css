@@ -296,6 +296,10 @@ form {
     background-color: #f1f1f1;
     box-shadow: 7px 7px rgba(120, 81, 54, 0.64);
 }
+form header {
+    height: 20px;
+    background-color: saddlebrown;
+}
 
 .ribbon-green {
     font: bold 15px Sans-Serif;
