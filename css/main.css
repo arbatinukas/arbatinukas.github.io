@@ -309,17 +309,9 @@ form header p {
     font-size: 18px;
 }
 form div {
-    display: block;
+    clear: both;
 
 }
-* {
-    margin: 0;
-    padding: 0;
-    font-weight: normal;
-    text-decoration: none;
-    text-align: left;
-}
-
 
 .ribbon-green {
     font: bold 15px Sans-Serif;
