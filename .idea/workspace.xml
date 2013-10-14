@@ -47,7 +47,7 @@
       <file leaf-file-name="productcard.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/productcard.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="39" column="32" selection-start="1624" selection-end="1624" vertical-scroll-proportion="-7.8076925">
+            <state line="39" column="32" selection-start="1624" selection-end="1624" vertical-scroll-proportion="-25.461538">
               <folding />
             </state>
           </provider>
@@ -56,7 +56,7 @@
       <file leaf-file-name="userlist.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/userlist.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="49" column="62" selection-start="1547" selection-end="1547" vertical-scroll-proportion="-10.115385">
+            <state line="49" column="62" selection-start="1547" selection-end="1547" vertical-scroll-proportion="-12.076923">
               <folding>
                 <marker date="1381756746353" expanded="true" signature="792:945" placeholder="..." />
                 <marker date="1381756746353" expanded="true" signature="885:913" placeholder="..." />
@@ -538,13 +538,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/productcard.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="39" column="32" selection-start="1624" selection-end="1624" vertical-scroll-proportion="-7.8076925">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/css/normalize.css">
       <provider selected="true" editor-type-id="text-editor">
         <state line="437" column="19" selection-start="7666" selection-end="7666" vertical-scroll-proportion="0.0">
@@ -552,9 +545,16 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/productcard.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="39" column="32" selection-start="1624" selection-end="1624" vertical-scroll-proportion="-25.461538">
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/userlist.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="49" column="62" selection-start="1547" selection-end="1547" vertical-scroll-proportion="-10.115385">
+        <state line="49" column="62" selection-start="1547" selection-end="1547" vertical-scroll-proportion="-12.076923">
           <folding>
             <marker date="1381756746353" expanded="true" signature="792:945" placeholder="..." />
             <marker date="1381756746353" expanded="true" signature="885:913" placeholder="..." />
