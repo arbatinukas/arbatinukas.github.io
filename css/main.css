@@ -296,7 +296,7 @@ form {
     box-shadow: 7px 7px 2px rgba(141, 131, 122, 0.64);
 }
 form header {
-    height: 45px;
+    height: 40px;
     background-color: rgba(87, 76, 66, 1);
     padding-top: 10px;
     line-height: 0em;
@@ -306,7 +306,7 @@ form header p {
     color: #ffffff;
     font-family: Verdana;
     padding-left: 15px;
-    font-size: 21px;
+    font-size: 18px;
 
 }
 
