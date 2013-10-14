@@ -5,7 +5,9 @@
     <bookmark url="file://$PROJECT_DIR$/index.html" line="60" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="81b79530-2c99-4535-8de8-d219e385cdbd" name="Default" comment="" />
+    <list default="true" id="81b79530-2c99-4535-8de8-d219e385cdbd" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/userlist.html" afterPath="$PROJECT_DIR$/userlist.html" />
+    </list>
     <ignored path="arbatinukas.github.io.git.iws" />
     <ignored path=".idea/workspace.xml" />
     <file path="/Dummy.txt" changelist="81b79530-2c99-4535-8de8-d219e385cdbd" time="1381748343504" ignored="false" />
@@ -56,11 +58,12 @@
       <file leaf-file-name="userlist.html" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/userlist.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="51" column="13" selection-start="1667" selection-end="1667" vertical-scroll-proportion="0.4393404">
+            <state line="51" column="22" selection-start="1676" selection-end="1676" vertical-scroll-proportion="0.4393404">
               <folding>
                 <element signature="n#style#0;n#input#0;n#form#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <marker date="1381758286961" expanded="true" signature="792:945" placeholder="..." />
-                <marker date="1381758286961" expanded="true" signature="885:913" placeholder="..." />
+                <element signature="n#style#0;n#textarea#0;n#form#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <marker date="1381758301230" expanded="true" signature="792:945" placeholder="..." />
+                <marker date="1381758301230" expanded="true" signature="885:913" placeholder="..." />
               </folding>
             </state>
           </provider>
@@ -562,11 +565,12 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/userlist.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="51" column="13" selection-start="1667" selection-end="1667" vertical-scroll-proportion="0.4393404">
+        <state line="51" column="22" selection-start="1676" selection-end="1676" vertical-scroll-proportion="0.4393404">
           <folding>
             <element signature="n#style#0;n#input#0;n#form#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <marker date="1381758286961" expanded="true" signature="792:945" placeholder="..." />
-            <marker date="1381758286961" expanded="true" signature="885:913" placeholder="..." />
+            <element signature="n#style#0;n#textarea#0;n#form#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <marker date="1381758301230" expanded="true" signature="792:945" placeholder="..." />
+            <marker date="1381758301230" expanded="true" signature="885:913" placeholder="..." />
           </folding>
         </state>
       </provider>
