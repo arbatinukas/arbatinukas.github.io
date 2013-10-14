@@ -327,6 +327,11 @@ label {
     width: 95%;
     border-radius: 5px;
 }
+#description {
+    display: block;
+    width: 95%;
+    border-radius: 5px;
+}
 
 
 .ribbon-green {
