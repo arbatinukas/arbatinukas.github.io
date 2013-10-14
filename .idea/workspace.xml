@@ -5,9 +5,7 @@
     <bookmark url="file://$PROJECT_DIR$/index.html" line="60" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="81b79530-2c99-4535-8de8-d219e385cdbd" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/userlist.html" afterPath="$PROJECT_DIR$/userlist.html" />
-    </list>
+    <list default="true" id="81b79530-2c99-4535-8de8-d219e385cdbd" name="Default" comment="" />
     <ignored path="arbatinukas.github.io.git.iws" />
     <ignored path=".idea/workspace.xml" />
     <file path="/Dummy.txt" changelist="81b79530-2c99-4535-8de8-d219e385cdbd" time="1381748343504" ignored="false" />
@@ -58,10 +56,10 @@
       <file leaf-file-name="userlist.html" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/userlist.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="49" column="105" selection-start="1590" selection-end="1590" vertical-scroll-proportion="0.37926972">
+            <state line="49" column="106" selection-start="1591" selection-end="1591" vertical-scroll-proportion="0.37926972">
               <folding>
-                <marker date="1381757928243" expanded="true" signature="792:945" placeholder="..." />
-                <marker date="1381757928243" expanded="true" signature="885:913" placeholder="..." />
+                <marker date="1381757936537" expanded="true" signature="792:945" placeholder="..." />
+                <marker date="1381757936537" expanded="true" signature="885:913" placeholder="..." />
               </folding>
             </state>
           </provider>
@@ -563,10 +561,10 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/userlist.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="49" column="105" selection-start="1590" selection-end="1590" vertical-scroll-proportion="0.37926972">
+        <state line="49" column="106" selection-start="1591" selection-end="1591" vertical-scroll-proportion="0.37926972">
           <folding>
-            <marker date="1381757928243" expanded="true" signature="792:945" placeholder="..." />
-            <marker date="1381757928243" expanded="true" signature="885:913" placeholder="..." />
+            <marker date="1381757936537" expanded="true" signature="792:945" placeholder="..." />
+            <marker date="1381757936537" expanded="true" signature="885:913" placeholder="..." />
           </folding>
         </state>
       </provider>
