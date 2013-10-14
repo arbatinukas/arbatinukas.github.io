@@ -298,7 +298,7 @@ form {
 form header {
     height: 40px;
     background-color: rgba(87, 76, 66, 1);
-    /*padding-top: 10px;*/
+    padding-top: 10px;
 
 }
 form header p {
