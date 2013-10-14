@@ -6,7 +6,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="81b79530-2c99-4535-8de8-d219e385cdbd" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/main.css" afterPath="$PROJECT_DIR$/css/main.css" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/userlist.html" afterPath="$PROJECT_DIR$/userlist.html" />
     </list>
     <ignored path="arbatinukas.github.io.git.iws" />
@@ -18,7 +17,7 @@
     <file path="/productcard.html" changelist="81b79530-2c99-4535-8de8-d219e385cdbd" time="1380719745927" ignored="false" />
     <file path="$USER_HOME$/WebstormProjects/arbatinukas.github.io/index.html" changelist="81b79530-2c99-4535-8de8-d219e385cdbd" time="1379403768966" ignored="false" />
     <file path="$USER_HOME$/WebstormProjects/arbatinukas.github.io/.idea/workspace.xml" changelist="81b79530-2c99-4535-8de8-d219e385cdbd" time="1379403848999" ignored="false" />
-    <file path="/userlist.html" changelist="81b79530-2c99-4535-8de8-d219e385cdbd" time="1381757903862" ignored="false" />
+    <file path="/userlist.html" changelist="81b79530-2c99-4535-8de8-d219e385cdbd" time="1381758046291" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -59,12 +58,11 @@
       <file leaf-file-name="userlist.html" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/userlist.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="51" column="111" selection-start="1761" selection-end="1761" vertical-scroll-proportion="0.4393404">
+            <state line="51" column="108" selection-start="1762" selection-end="1762" vertical-scroll-proportion="0.4393404">
               <folding>
                 <element signature="n#style#0;n#input#0;n#form#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#input#1;n#form#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <marker date="1381758018037" expanded="true" signature="792:945" placeholder="..." />
-                <marker date="1381758018037" expanded="true" signature="885:913" placeholder="..." />
+                <marker date="1381758061030" expanded="true" signature="792:945" placeholder="..." />
+                <marker date="1381758061030" expanded="true" signature="885:913" placeholder="..." />
               </folding>
             </state>
           </provider>
@@ -566,12 +564,11 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/userlist.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="51" column="111" selection-start="1761" selection-end="1761" vertical-scroll-proportion="0.4393404">
+        <state line="51" column="108" selection-start="1762" selection-end="1762" vertical-scroll-proportion="0.4393404">
           <folding>
             <element signature="n#style#0;n#input#0;n#form#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#input#1;n#form#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <marker date="1381758018037" expanded="true" signature="792:945" placeholder="..." />
-            <marker date="1381758018037" expanded="true" signature="885:913" placeholder="..." />
+            <marker date="1381758061030" expanded="true" signature="792:945" placeholder="..." />
+            <marker date="1381758061030" expanded="true" signature="885:913" placeholder="..." />
           </folding>
         </state>
       </provider>
