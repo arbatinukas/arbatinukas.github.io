@@ -326,6 +326,7 @@ label {
     display: block;
     width: 95%;
     border-radius: 5px;
+    box-shadow: none;
 }
 
 
