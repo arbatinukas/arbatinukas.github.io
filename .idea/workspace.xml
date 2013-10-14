@@ -5,9 +5,7 @@
     <bookmark url="file://$PROJECT_DIR$/index.html" line="60" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="81b79530-2c99-4535-8de8-d219e385cdbd" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/userlist.html" afterPath="$PROJECT_DIR$/userlist.html" />
-    </list>
+    <list default="true" id="81b79530-2c99-4535-8de8-d219e385cdbd" name="Default" comment="" />
     <ignored path="arbatinukas.github.io.git.iws" />
     <ignored path=".idea/workspace.xml" />
     <file path="/Dummy.txt" changelist="81b79530-2c99-4535-8de8-d219e385cdbd" time="1381748343504" ignored="false" />
@@ -49,28 +47,16 @@
       <file leaf-file-name="productcard.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/productcard.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="39" column="32" selection-start="1624" selection-end="1624" vertical-scroll-proportion="-1.9230769">
+            <state line="39" column="32" selection-start="1624" selection-end="1624" vertical-scroll-proportion="-7.8076925">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="userlist.html" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/userlist.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="48" column="24" selection-start="1456" selection-end="1456" vertical-scroll-proportion="0.49941108">
-              <folding>
-                <marker date="1381756437523" expanded="true" signature="792:945" placeholder="..." />
-                <marker date="1381756437523" expanded="true" signature="885:913" placeholder="..." />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="normalize.css" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="normalize.css" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/css/normalize.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="437" column="19" selection-start="7666" selection-end="7666" vertical-scroll-proportion="0.0">
+            <state line="437" column="19" selection-start="7666" selection-end="7666" vertical-scroll-proportion="1.0297142">
               <folding />
             </state>
           </provider>
@@ -540,17 +526,13 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/productcard.html">
+    <entry file="file://$PROJECT_DIR$/userlist.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="39" column="32" selection-start="1624" selection-end="1624" vertical-scroll-proportion="-1.9230769">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/css/normalize.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="437" column="19" selection-start="7666" selection-end="7666" vertical-scroll-proportion="0.0">
-          <folding />
+        <state line="48" column="24" selection-start="1456" selection-end="1456" vertical-scroll-proportion="-16.307692">
+          <folding>
+            <marker date="1381756437523" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1381756437523" expanded="true" signature="-1:-1" placeholder="..." />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -561,13 +543,17 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/userlist.html">
+    <entry file="file://$PROJECT_DIR$/productcard.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="48" column="24" selection-start="1456" selection-end="1456" vertical-scroll-proportion="0.49941108">
-          <folding>
-            <marker date="1381756437523" expanded="true" signature="792:945" placeholder="..." />
-            <marker date="1381756437523" expanded="true" signature="885:913" placeholder="..." />
-          </folding>
+        <state line="39" column="32" selection-start="1624" selection-end="1624" vertical-scroll-proportion="-7.8076925">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/normalize.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="437" column="19" selection-start="7666" selection-end="7666" vertical-scroll-proportion="1.0297142">
+          <folding />
         </state>
       </provider>
     </entry>
