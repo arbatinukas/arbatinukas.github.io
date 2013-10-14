@@ -301,7 +301,7 @@ section div ul li a{
     background-color: rgba(87, 76, 66, 1);
     padding-top: 10px;
     line-height: 0em;
-
+    display: block;
 }
 #list header p {
     color: #ffffff;
