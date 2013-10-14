@@ -332,9 +332,7 @@ label {
     width: 95%;
     border-radius: 5px;
 }
-textarea {
-    border: 0.5px solid rgba(0,0,0, 0,1);
-}
+
 
 
 .ribbon-green {
