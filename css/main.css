@@ -312,7 +312,12 @@ section div ul li a{
     padding-left: 15px;
     font-size: 18px;
 }
-
+label {
+    display: block;
+}
+#list-name {
+    display: block;
+}
 
 
 .ribbon-green {
