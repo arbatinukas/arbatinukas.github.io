@@ -307,7 +307,9 @@ form header p {
     font-family: Verdana;
     padding-left: 15px;
     font-size: 18px;
-
+}
+form div {
+    position: relative;
 }
 
 .ribbon-green {
