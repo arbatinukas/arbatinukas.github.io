@@ -308,8 +308,9 @@ form header p {
     padding-left: 15px;
     font-size: 18px;
 }
-form content div {
+form div {
     display: block;
+    color: blue;
 }
 
 .ribbon-green {
