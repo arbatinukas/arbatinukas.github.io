@@ -288,6 +288,7 @@ section div ul li a{
 #list {
     width: 480px;
     height: 340px;
+    z-index
     margin: 0 auto;
     overflow: hidden;
     margin-top: 20px;
