@@ -311,6 +311,9 @@ form header p {
 .field {
     clear: both;
 }
+form div {
+    display: block;
+}
 
 .ribbon-green {
     font: bold 15px Sans-Serif;
