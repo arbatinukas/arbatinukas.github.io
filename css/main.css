@@ -311,7 +311,7 @@ section div ul li a{
     font-family: Verdana;
     padding-left: 15px;
     font-size: 18px;
-    margin-top: 10px;
+    padding-top: 10px;
 }
 form {
     text-align: left;
