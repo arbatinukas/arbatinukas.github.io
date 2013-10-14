@@ -5,7 +5,9 @@
     <bookmark url="file://$PROJECT_DIR$/index.html" line="60" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="81b79530-2c99-4535-8de8-d219e385cdbd" name="Default" comment="" />
+    <list default="true" id="81b79530-2c99-4535-8de8-d219e385cdbd" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/userlist.html" afterPath="$PROJECT_DIR$/userlist.html" />
+    </list>
     <ignored path="arbatinukas.github.io.git.iws" />
     <ignored path=".idea/workspace.xml" />
     <file path="/Dummy.txt" changelist="81b79530-2c99-4535-8de8-d219e385cdbd" time="1381748343504" ignored="false" />
@@ -56,10 +58,10 @@
       <file leaf-file-name="userlist.html" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/userlist.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="78" column="188" selection-start="2377" selection-end="2377" vertical-scroll-proportion="0.8798587">
+            <state line="50" column="29" selection-start="1469" selection-end="1477" vertical-scroll-proportion="0.31919906">
               <folding>
-                <marker date="1381325991743" expanded="true" signature="792:945" placeholder="..." />
-                <marker date="1381325991743" expanded="true" signature="885:913" placeholder="..." />
+                <marker date="1381752427856" expanded="true" signature="792:945" placeholder="..." />
+                <marker date="1381752427856" expanded="true" signature="885:913" placeholder="..." />
               </folding>
             </state>
           </provider>
@@ -105,8 +107,8 @@
         <option value="$PROJECT_DIR$/style.css" />
         <option value="$PROJECT_DIR$/productcard.html" />
         <option value="$PROJECT_DIR$/index.html" />
-        <option value="$PROJECT_DIR$/userlist.html" />
         <option value="$PROJECT_DIR$/css/main.css" />
+        <option value="$PROJECT_DIR$/userlist.html" />
       </list>
     </option>
   </component>
@@ -561,10 +563,10 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/userlist.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="78" column="188" selection-start="2377" selection-end="2377" vertical-scroll-proportion="0.8798587">
+        <state line="50" column="29" selection-start="1469" selection-end="1477" vertical-scroll-proportion="0.31919906">
           <folding>
-            <marker date="1381325991743" expanded="true" signature="792:945" placeholder="..." />
-            <marker date="1381325991743" expanded="true" signature="885:913" placeholder="..." />
+            <marker date="1381752427856" expanded="true" signature="792:945" placeholder="..." />
+            <marker date="1381752427856" expanded="true" signature="885:913" placeholder="..." />
           </folding>
         </state>
       </provider>
