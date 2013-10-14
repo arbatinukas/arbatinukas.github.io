@@ -309,7 +309,7 @@ form header p {
     font-size: 18px;
 }
 form div {
-    position: relative;
+    display: block;
 }
 
 .ribbon-green {
