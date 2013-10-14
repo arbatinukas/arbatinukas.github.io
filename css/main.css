@@ -308,9 +308,8 @@ form header p {
     padding-left: 15px;
     font-size: 18px;
 }
-form div {
+.field {
     clear: both;
-
 }
 
 .ribbon-green {

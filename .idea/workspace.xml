@@ -7,17 +7,18 @@
   <component name="ChangeListManager">
     <list default="true" id="81b79530-2c99-4535-8de8-d219e385cdbd" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/main.css" afterPath="$PROJECT_DIR$/css/main.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/userlist.html" afterPath="$PROJECT_DIR$/userlist.html" />
     </list>
     <ignored path="arbatinukas.github.io.git.iws" />
     <ignored path=".idea/workspace.xml" />
     <file path="/Dummy.txt" changelist="81b79530-2c99-4535-8de8-d219e385cdbd" time="1381748343504" ignored="false" />
     <file path="/index.html" changelist="81b79530-2c99-4535-8de8-d219e385cdbd" time="1380886305813" ignored="false" />
     <file path="/style.css" changelist="81b79530-2c99-4535-8de8-d219e385cdbd" time="1378993972097" ignored="false" />
-    <file path="/main.css" changelist="81b79530-2c99-4535-8de8-d219e385cdbd" time="1381754200514" ignored="false" />
+    <file path="/main.css" changelist="81b79530-2c99-4535-8de8-d219e385cdbd" time="1381754257349" ignored="false" />
     <file path="/productcard.html" changelist="81b79530-2c99-4535-8de8-d219e385cdbd" time="1380719745927" ignored="false" />
     <file path="$USER_HOME$/WebstormProjects/arbatinukas.github.io/index.html" changelist="81b79530-2c99-4535-8de8-d219e385cdbd" time="1379403768966" ignored="false" />
     <file path="$USER_HOME$/WebstormProjects/arbatinukas.github.io/.idea/workspace.xml" changelist="81b79530-2c99-4535-8de8-d219e385cdbd" time="1379403848999" ignored="false" />
-    <file path="/userlist.html" changelist="81b79530-2c99-4535-8de8-d219e385cdbd" time="1381752566174" ignored="false" />
+    <file path="/userlist.html" changelist="81b79530-2c99-4535-8de8-d219e385cdbd" time="1381754244812" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -58,10 +59,10 @@
       <file leaf-file-name="userlist.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/userlist.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="49" column="12" selection-start="1435" selection-end="1435" vertical-scroll-proportion="-10.423077">
+            <state line="54" column="26" selection-start="1626" selection-end="1626" vertical-scroll-proportion="-13.692307">
               <folding>
-                <marker date="1381753463354" expanded="true" signature="792:945" placeholder="..." />
-                <marker date="1381753463354" expanded="true" signature="885:913" placeholder="..." />
+                <marker date="1381754261585" expanded="true" signature="792:945" placeholder="..." />
+                <marker date="1381754261585" expanded="true" signature="885:913" placeholder="..." />
               </folding>
             </state>
           </provider>
@@ -79,7 +80,7 @@
       <file leaf-file-name="main.css" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/css/main.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="311" column="15" selection-start="6563" selection-end="6563" vertical-scroll-proportion="0.6217143">
+            <state line="311" column="16" selection-start="6562" selection-end="6562" vertical-scroll-proportion="0.6217143">
               <folding />
             </state>
           </provider>
@@ -540,13 +541,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/css/normalize.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="437" column="19" selection-start="7666" selection-end="7666" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/productcard.html">
       <provider selected="true" editor-type-id="text-editor">
         <state line="39" column="32" selection-start="1624" selection-end="1624" vertical-scroll-proportion="-1.9230769">
@@ -556,17 +550,24 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/userlist.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="49" column="12" selection-start="1435" selection-end="1435" vertical-scroll-proportion="-10.423077">
+        <state line="54" column="26" selection-start="1626" selection-end="1626" vertical-scroll-proportion="-13.692307">
           <folding>
-            <marker date="1381753463354" expanded="true" signature="792:945" placeholder="..." />
-            <marker date="1381753463354" expanded="true" signature="885:913" placeholder="..." />
+            <marker date="1381754261585" expanded="true" signature="792:945" placeholder="..." />
+            <marker date="1381754261585" expanded="true" signature="885:913" placeholder="..." />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/normalize.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="437" column="19" selection-start="7666" selection-end="7666" vertical-scroll-proportion="0.0">
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/css/main.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="311" column="15" selection-start="6563" selection-end="6563" vertical-scroll-proportion="0.6217143">
+        <state line="311" column="16" selection-start="6562" selection-end="6562" vertical-scroll-proportion="0.6217143">
           <folding />
         </state>
       </provider>
