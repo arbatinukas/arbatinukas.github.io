@@ -5,9 +5,7 @@
     <bookmark url="file://$PROJECT_DIR$/index.html" line="60" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="81b79530-2c99-4535-8de8-d219e385cdbd" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/main.css" afterPath="$PROJECT_DIR$/css/main.css" />
-    </list>
+    <list default="true" id="81b79530-2c99-4535-8de8-d219e385cdbd" name="Default" comment="" />
     <ignored path="arbatinukas.github.io.git.iws" />
     <ignored path=".idea/workspace.xml" />
     <file path="/Dummy.txt" changelist="81b79530-2c99-4535-8de8-d219e385cdbd" time="1381748343504" ignored="false" />
@@ -55,10 +53,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="userlist.html" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="userlist.html" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/userlist.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="53" column="61" selection-start="1594" selection-end="1594" vertical-scroll-proportion="-13.038462">
+            <state line="49" column="6" selection-start="1429" selection-end="1429" vertical-scroll-proportion="0.31919906">
               <folding>
                 <marker date="1381753463354" expanded="true" signature="792:945" placeholder="..." />
                 <marker date="1381753463354" expanded="true" signature="885:913" placeholder="..." />
@@ -76,10 +74,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="main.css" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="main.css" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/css/main.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="311" column="19" selection-start="6567" selection-end="6567" vertical-scroll-proportion="0.6217143">
+            <state line="311" column="19" selection-start="6567" selection-end="6567" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -374,7 +372,7 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="7" />
     <editor active="true" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32963374" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -554,20 +552,20 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/css/main.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="311" column="19" selection-start="6567" selection-end="6567" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/userlist.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="53" column="61" selection-start="1594" selection-end="1594" vertical-scroll-proportion="-13.038462">
+        <state line="49" column="6" selection-start="1429" selection-end="1429" vertical-scroll-proportion="0.31919906">
           <folding>
             <marker date="1381753463354" expanded="true" signature="792:945" placeholder="..." />
             <marker date="1381753463354" expanded="true" signature="885:913" placeholder="..." />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/css/main.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="311" column="19" selection-start="6567" selection-end="6567" vertical-scroll-proportion="0.6217143">
-          <folding />
         </state>
       </provider>
     </entry>
