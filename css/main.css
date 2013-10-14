@@ -311,7 +311,6 @@ section div ul li a{
     font-family: Verdana;
     padding-left: 15px;
     font-size: 18px;
-    padding-top: 10px;
 }
 form {
     text-align: left;
@@ -321,7 +320,7 @@ form {
 label {
     display: block;
     color: #718090;
-
+    padding-top: 20px;
 }
 #list-name {
     display: block;
